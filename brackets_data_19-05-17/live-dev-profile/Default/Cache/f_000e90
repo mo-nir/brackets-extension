@@ -1,0 +1,480 @@
+<!doctype html>
+<html data-brackets-id='2097' class="no-js" lang="en">
+  <head data-brackets-id='2098'>
+    <!-- Meta Tags -->
+    <meta data-brackets-id='2099' charset="utf-8">
+    <meta data-brackets-id='2100' http-equiv="x-ua-compatible" content="ie=edge">
+    <meta data-brackets-id='2101' name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-brackets-id='2102' name="author" content="Pressionate">
+    <meta data-brackets-id='2103' name="description" content="">
+    <meta data-brackets-id='2104' name="keywords" content="">
+    <!-- Page Title -->
+    <title data-brackets-id='2105'>Presley - Creative Portfolio HTML Template</title>
+    <!-- Favicon and Apple Touch Icon -->
+    <link data-brackets-id='2106' rel="icon" href="img/favicon.png">
+    <link data-brackets-id='2107' rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Google Fonts -->
+    <link data-brackets-id='2108' href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link data-brackets-id='2109' href="css/plugins.css" rel="stylesheet">
+    <link data-brackets-id='2110' href="css/responsive.css" rel="stylesheet">
+    <link data-brackets-id='2111' href="css/style.css" rel="stylesheet">
+    <link data-brackets-id='2112' rel="stylesheet" href="css/custom.css">
+</head>
+
+<body data-brackets-id='2113'>
+    <!-- header -->
+    <header data-brackets-id='2114' class="header custom-header">
+        <!-- navbar -->
+        <nav data-brackets-id='2115' id="mainNav" class="navbar navbar-default navbar-fixed-top custom-nav animated fadeInUp visible">
+            <div data-brackets-id='2116' class="container">
+                <!-- toggle menu -->
+                <div data-brackets-id='2117' class="navbar-header">
+                    <button data-brackets-id='2118' type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span data-brackets-id='2119' class="sr-only">Toggle navigation</span><i data-brackets-id='2120' class="fa fa-bars"></i>
+                    </button>
+                    <a data-brackets-id='2121' class="navbar-brand" href="index.html">PRESLEY</a>
+                </div>
+
+                <!-- navbar links -->
+                <div data-brackets-id='2122' class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul data-brackets-id='2123' class="nav navbar-nav pull-right mobile-responsive">
+                        <li data-brackets-id='2124' class="dropdown active animated transform-custom-ms fadeInDown visible">
+                            <a data-brackets-id='2125' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Home</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2126' class="dropdown-menu">
+                                <li data-brackets-id='2127'><a data-brackets-id='2128' href="index.html">Home - 1</a></li>
+                                <li data-brackets-id='2129'><a data-brackets-id='2130' href="home-1.html">Home - 2</a></li>
+                                <li data-brackets-id='2131'><a data-brackets-id='2132' href="home-2.html">Home - 3</a></li>
+                                <li data-brackets-id='2133'><a data-brackets-id='2134' href="home-3.html">Home - 4</a></li>
+                                <li data-brackets-id='2135' class="active"><a data-brackets-id='2136' href="home-4.html">Home - 5</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2137'>
+                            <a data-brackets-id='2138' href="about.html">About</a>
+                        </li>
+                        <li data-brackets-id='2139' class="dropdown">
+                            <a data-brackets-id='2140' href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2141' class="dropdown-menu">
+                                <li data-brackets-id='2142'><a data-brackets-id='2143' href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                                <li data-brackets-id='2144'><a data-brackets-id='2145' href="portfolio-even-grid.html">Portfolio Even Grid</a></li>
+                                <li data-brackets-id='2146'><a data-brackets-id='2147' href="portfolio-single.html">Portfolio Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2148' class="dropdown">
+                            <a data-brackets-id='2149' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Blog</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2150' class="dropdown-menu">
+                                <li data-brackets-id='2151'><a data-brackets-id='2152' href="blog.html">Blog Grid</a></li>
+                                <li data-brackets-id='2153'><a data-brackets-id='2154' href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2155'>
+                            <a data-brackets-id='2156' href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+    </header>
+    <!-- end header -->
+ <!-- page title -->
+    <div data-brackets-id='2157' class="home-page-title2">
+		<div data-brackets-id='2158' class="overlay"></div>
+        <div data-brackets-id='2159' class="container">
+        <nav data-brackets-id='2160' class="text-left animated fadeInLeft visible">
+            <h1 data-brackets-id='2161' class="white">HELLO, WELCOME TO JAZZ</h1>
+            <h3 data-brackets-id='2162' class="pad-top-20 white">MINIMAL PORTFOLIO THEME</h3>
+            <h4 data-brackets-id='2163' class="white">Learn how to balance your city job with nature </h4>
+            <div data-brackets-id='2164' class="readmore pad-top-40">
+                <a data-brackets-id='2165' class="slide-btn btn-hover" href="portfolio-masonry.html">READ MORE</a>
+            </div>
+        </nav>
+        </div>
+    </div>
+    <!-- page title -->
+
+
+
+    <!-- PORTFOLIO SECTION -->
+    <section data-brackets-id='2166' id="projects" class="ui masonry">
+        <div data-brackets-id='2167' class="container">
+            <div data-brackets-id='2168' class="row">
+                <div data-brackets-id='2169' class="col-md-12">
+                    <div data-brackets-id='2170' class="isotope-filters pad-bottom-60">
+                        <!-- NAV-->
+                        <ul data-brackets-id='2171' class="nav nav-tabs light-style text-center">
+                            <li data-brackets-id='2172'><a data-brackets-id='2173' href="#" data-filter=".all" class="filter active">All</a></li>
+                            <li data-brackets-id='2174'><a data-brackets-id='2175' href="#" data-filter=".design" class="filter">Design</a></li>
+                            <li data-brackets-id='2176'><a data-brackets-id='2177' href="#" data-filter=".identity" class="filter">Identity</a></li>
+                            <li data-brackets-id='2178'><a data-brackets-id='2179' href="#" data-filter=".web" class="filter">Web</a></li>
+                            <li data-brackets-id='2180'><a data-brackets-id='2181' href="#" data-filter=".photography" class="filter">Photography</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='2182' class="row">
+                <div data-brackets-id='2183' class="col-md-12">
+                    <!-- GRID-->
+                    <div data-brackets-id='2184' class="isotope-grid grid-three-column" data-gutter="0" data-columns="3">
+                        <div data-brackets-id='2185' class="grid-sizer"></div>
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2186' class="item all design web">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2187' class="image-wrapper">
+                                <!-- IMAGE -->
+                                <a data-brackets-id='2188' href="portfolio-single.html"><img data-brackets-id='2189' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/1.jpg" alt="" width="380" height="487" /></a>
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2190' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2191' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2192' class="margin-none"><a data-brackets-id='2193' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2194'><a data-brackets-id='2195' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2196'> , </span>
+                                        <span data-brackets-id='2197'><a data-brackets-id='2198' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                          
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2199' class="item all identity web">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2200' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2201' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/2.jpg" width="380" height="253" alt="" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2202' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2203' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2204' class="margin-none"><a data-brackets-id='2205' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2206'><a data-brackets-id='2207' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2208'> , </span>
+                                        <span data-brackets-id='2209'><a data-brackets-id='2210' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2211' class="item all design identity photography">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2212' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2213' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/3.jpg" alt="" width="380" height="487" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2214' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2215' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2216' class="margin-none"><a data-brackets-id='2217' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2218'><a data-brackets-id='2219' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2220'> , </span>
+                                        <span data-brackets-id='2221'><a data-brackets-id='2222' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2223' class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2224' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2225' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/4.jpg" alt="" width="380" height="253" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2226' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2227' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2228' class="margin-none"><a data-brackets-id='2229' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2230'><a data-brackets-id='2231' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2232'> , </span>
+                                        <span data-brackets-id='2233'><a data-brackets-id='2234' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2235' class="item all identity design">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2236' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2237' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/5.jpg" alt="" width="380" height="253" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2238' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2239' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2240' class="margin-none"><a data-brackets-id='2241' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2242'><a data-brackets-id='2243' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2244'> , </span>
+                                        <span data-brackets-id='2245'><a data-brackets-id='2246' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2247' class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2248' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2249' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/6.jpg" alt="" width="380" height="253" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2250' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2251' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2252' class="margin-none"><a data-brackets-id='2253' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2254'><a data-brackets-id='2255' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2256'> , </span>
+                                        <span data-brackets-id='2257'><a data-brackets-id='2258' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2259' class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2260' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2261' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/7.jpg" alt="" width="380" height="487" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2262' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2263' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2264' class="margin-none"><a data-brackets-id='2265' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2266'><a data-brackets-id='2267' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2268'> , </span>
+                                        <span data-brackets-id='2269'><a data-brackets-id='2270' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2271' class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2272' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2273' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/8.jpg" alt="" width="380" height="253" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2274' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2275' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2276' class="margin-none"><a data-brackets-id='2277' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2278'><a data-brackets-id='2279' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2280'> , </span>
+                                        <span data-brackets-id='2281'><a data-brackets-id='2282' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div data-brackets-id='2283' class="item all web photography">
+                            <!-- IMAGE WRAPPER -->
+                            <div data-brackets-id='2284' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='2285' class="wrapper-scale-in img-responsive hvr" src="img/portfolio/ui/9.jpg" alt="" />
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='2286' class="img-title-desc">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='2287' class="portfolio-title title-hvr pad-20 animated transform-custom-ms fadeInUp visible">
+                                        <h4 data-brackets-id='2288' class="margin-none"><a data-brackets-id='2289' href="portfolio-single.html" class="white">PORTFOLIO TITLE</a></h4>
+                                        <span data-brackets-id='2290'><a data-brackets-id='2291' href="portfolio-single.html" class="white">Design</a></span>
+                                        <span data-brackets-id='2292'> , </span>
+                                        <span data-brackets-id='2293'><a data-brackets-id='2294' href="portfolio-single.html" class="white">Development</a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                    </div>
+
+                    <!-- button -->
+                    <div data-brackets-id='2295' class="loadmore text-center">
+                        <a data-brackets-id='2296' href="#">LOAD MORE</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- /.CONTAINER -->
+    </section>
+    <!-- PORTFOLIO SECTION -->
+
+    <!-- about section -->
+    <section data-brackets-id='2297' id="about-us" class="about-us pad-tb-40">
+        <!-- custom -->
+        <div data-brackets-id='2298' class="container custom-about">
+            <!-- row -->
+            <div data-brackets-id='2299' class="row">
+                <!-- col 6 -->
+                <div data-brackets-id='2300' class="col-md-6 abt-left animated fadeInLeft visible">
+                    <div data-brackets-id='2301' class="about-img">
+                        <img data-brackets-id='2302' src="img/about-us.png" class="img-responsive" alt="" title="" width="290" height="329">
+                    </div>
+                </div>
+                <!-- col-6 -->
+                <div data-brackets-id='2303' class="col-md-6 abt-right animated">
+                    <div data-brackets-id='2304' class="about-content">
+                        <div data-brackets-id='2305' class="title-heading pad-tb-30">
+                            <h3 data-brackets-id='2306' class="upper">I am a Passionate Designer</h3>
+                            <h5 data-brackets-id='2307'>WE TRY TO PROVIDE BEST SERVICE</h5>
+                        </div>
+                        <p data-brackets-id='2308'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+                    </div>
+                    <div data-brackets-id='2309' class="readmore pad-top-40">
+                        <a data-brackets-id='2310' class="btn-hover" href="blog-single.html">READ MORE</a>
+                    </div>
+                </div>
+
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- end about section -->
+    
+    <!-- testimonial -->
+    <section data-brackets-id='2311' id="testimonial" class="testimonial-white-bg">
+        <div data-brackets-id='2312' class="container custom-testimonial text-center animated fadeInUp visible">
+            <!-- CAROUSEL -->
+            <div data-brackets-id='2313' class="col-md-offset-1 col-md-10 col-md-offset-1">
+                <div data-brackets-id='2314' class="owl-carousel nav-bottom top-bullet dots-dark dots-outer dots-mini" data-items="1" data-margin="40" data-loop="true" data-merge="true" data-nav="false" data-dots="true" data-stagepadding="" data-mobile="1" data-tablet="1" data-desktopsmall="1" data-desktop="1" data-autoplay="true" data-delay="60000">
+                    <!-- TESTIMONIAL -->
+                    <div data-brackets-id='2315' class="item client-says">
+                        <div data-brackets-id='2316' class="quote">
+                            <!-- IMG -->
+                            <div data-brackets-id='2317' class="testimonial-img pad-bottom-20">
+                                <img data-brackets-id='2318' src="img/testimonial/1.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div data-brackets-id='2319' class="quote-text">
+                                <!-- TEXT -->
+                                <p data-brackets-id='2320'>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- TESTIMONIAL -->
+                    <div data-brackets-id='2321' class="item client-says">
+                        <div data-brackets-id='2322' class="quote">
+                            <!-- IMG -->
+                            <div data-brackets-id='2323' class="testimonial-img pad-bottom-20">
+                                <img data-brackets-id='2324' src="img/testimonial/2.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div data-brackets-id='2325' class="quote-text">
+                                <!-- TEXT -->
+                                <p data-brackets-id='2326'>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- TESTIMONIAL -->
+                    <div data-brackets-id='2327' class="item client-says">
+                        <div data-brackets-id='2328' class="quote">
+                            <!-- IMG -->
+                            <div data-brackets-id='2329' class="testimonial-img pad-bottom-20">
+                                <img data-brackets-id='2330' src="img/testimonial/3.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div data-brackets-id='2331' class="quote-text">
+                                <!-- TEXT -->
+                                <p data-brackets-id='2332'>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- TESTIMONIAL -->
+                    <div data-brackets-id='2333' class="item client-says">
+                        <div data-brackets-id='2334' class="quote">
+                            <!-- IMG -->
+                            <div data-brackets-id='2335' class="testimonial-img pad-bottom-20">
+                                <img data-brackets-id='2336' src="img/testimonial/1.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div data-brackets-id='2337' class="quote-text">
+                                <!-- TEXT -->
+                                <p data-brackets-id='2338'>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /. CAROUSEL -->
+            </div>
+        </div>
+    </section>
+    <!-- end testimonial -->
+
+    <!-- Back to Top -->
+    <a data-brackets-id='2339' href="#" id="back-to-top" title="Back to top" class="show"></a>
+
+    <!-- Start Footer -->
+    <footer data-brackets-id='2340' class="custom-footer">
+        <div data-brackets-id='2341' class="container">
+            <div data-brackets-id='2342' class="copyright">
+                <p data-brackets-id='2343'>Copyright &copy; 2017 PRESLEY. All Rights Reserved. Designed by <a data-brackets-id='2344' href="http://pressionate.com" target="_blank">Pressionate</a>.</p>
+            </div>
+            <ul data-brackets-id='2345' class="list-inline f-social pad-top-20">
+                <li data-brackets-id='2346'>
+                    <a data-brackets-id='2347' href="#"><i data-brackets-id='2348' class="fa fa-facebook"></i>Facebook</a>
+                </li>
+                <li data-brackets-id='2349'>
+                    <a data-brackets-id='2350' href="#"><i data-brackets-id='2351' class="fa fa-twitter"></i>Twitter</a>
+                </li>
+                <li data-brackets-id='2352'>
+                    <a data-brackets-id='2353' href="#"><i data-brackets-id='2354' class="fa fa-dribbble"></i>Dribbble</a>
+                </li>
+                <li data-brackets-id='2355'>
+                    <a data-brackets-id='2356' href="#"><i data-brackets-id='2357' class="fa fa-instagram"></i>Instagram</a>
+                </li>
+                <li data-brackets-id='2358'>
+                    <a data-brackets-id='2359' href="#"><i data-brackets-id='2360' class="fa fa-google-plus"></i>Google+</a>
+                </li>
+                <li data-brackets-id='2361'>
+                    <a data-brackets-id='2362' href="#"><i data-brackets-id='2363' class="fa fa-linkedin"></i>Linkedin</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script data-brackets-id='2364' src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script data-brackets-id='2365' src="js/plugins.js"></script>
+    <script data-brackets-id='2366' src="js/portfolio.js"></script>
+    <script data-brackets-id='2367' src="js/main.js"></script>
+
+</body>
+</html>

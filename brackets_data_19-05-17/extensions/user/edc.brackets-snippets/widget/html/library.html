@@ -1,0 +1,55 @@
+<div class="alert alert-info" ng-if="!hideAlert">
+  <span>Notes:</span>
+  Could not go through the variables with Tab in HTML/CSS if <span class="label label-info">Emmet</span> installed.
+  <button class="close" pop-confirm confirm-cb="dismissAlert()" confirm-msg="I got it.">&times;</button>
+</div>
+
+<div filter-bars hints="libraryHints" filters="filters" defined-languages="definedLanguages"></div>
+
+<!-- <style type="text/css">
+  #snippets-table td > p {
+    word-break: break-word;
+  }
+</style> -->
+
+<!-- <table id="snippets-table" class="table table-striped table-hover table-bordered">
+  <thead>
+    <tr>
+      <th style="width: 13%;">Trigger</th>
+      <th>Desc</th>
+      <th style="width: 50%;">Text</th>
+      <th style="width: 13%;">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="hint in libraryHints | filter:{scope:filters.scope} | filter:{tag:filters.tag} | filter:filters.search track by hint.trigger">
+      <td><span class="label label-info trigger">{{hint.trigger}}</span></td>
+      <td><p>{{hint.description}}</p></td>
+      <td><pre class="code" hljs folding>{{hint.text}}</pre></td>
+      <td><button class="btn" ng-click="save(hint)" blink>+</button></td>
+    </tr>
+  </tbody>
+</table> -->
+
+<div>
+  <div class="library-hint" ng-repeat="hint in libraryHints | filter:{scope:filters.scope} | filter:{tag:filters.tag} | filter:filters.search track by hint.trigger">
+    <div class="hint-info">
+      <span class="label label-info trigger">{{hint.trigger}}</span>
+      <span>{{hint.description}}</span>
+      <button class="btn btn-mini pull-right" ng-click="save(hint)" blink>+</button>
+    </div>
+
+    <div>
+      <pre class="code" hljs folding>{{hint.text}}</pre>
+    </div>
+  </div>
+
+  <div class="alert alert-info">
+    <p>The library is currently maintained by myself, you can contribute more snippets by simply <span class="label label-info">creating an issue</span> and submit your snippets, or</p>
+    <ol>
+      <li>Fork this project;</li>
+      <li>Edit <span class="label label-info">library-hints.yml</span>, then commit changes and push it to your repository;</li>
+      <li>Perform a <a href="https://github.com/chuyik/brackets-snippets/pulls">pull request</a>.</li>
+    </ol>
+  </div>
+</div>

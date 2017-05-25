@@ -1,0 +1,53 @@
+<div id="edc-brackets-snippets-panel" ng-form="form"
+  class="bottom-panel vert-resizable top-resizer"
+  ng-app="snippets-manager" ng-controller="SnippetsCtrl">
+
+  <!-- Toolbar -->
+  <div class="toolbar simple-toolbar-layout clearfix">
+
+    <!-- Title -->
+    <div class="title">Snippets Manager</div>
+
+    <div class="right-area" ng-include="url('html/toolbar.html')"></div>
+
+    <!-- Close Button -->
+    <button class="close">&times;</button>
+  </div>
+
+  <div class="resizable-content">
+
+    <!-- Left -->
+    <div class="left-panel" ng-include="url('html/list.html')"></div>
+
+    <!-- Right -->
+    <div class="right-panel">
+
+      <!-- Snippet Editing -->
+      <div ng-if="editingObj" ng-include="url('html/edit.html')"></div>
+
+      <!-- Library -->
+      <div
+        ng-controller="LibraryCtrl"
+        ng-if="isLibrary"
+        ng-hide="editingObj"
+        ng-include="url('html/library.html')"
+        >
+      </div>
+
+      <!-- Settings -->
+      <div
+        ng-if="isSetting"
+        ng-hide="editingObj"
+        ng-include="url('html/settings.html')"
+        >
+      </div>
+
+      <!-- Welcome Page -->
+      <div
+        ng-hide="editingObj || isSetting || isLibrary"
+        ng-include="url('html/welcome.html')"
+        >
+      </div>
+    </div>
+  </div>
+</div>

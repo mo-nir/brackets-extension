@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html data-brackets-id='1' class="no-js" lang="en">
+
+<head data-brackets-id='2'>
+    <!-- Meta Tags -->
+    <meta data-brackets-id='3' charset="utf-8">
+    <meta data-brackets-id='4' http-equiv="x-ua-compatible" content="ie=edge">
+    <meta data-brackets-id='5' name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-brackets-id='6' name="author" content="Monir">
+    <meta data-brackets-id='7' name="description" content="">
+    <meta data-brackets-id='8' name="keywords" content="">
+    <!-- Page Title -->
+    <title data-brackets-id='9'>Switch-Html-Template</title>
+    <!-- Favicon and Apple Touch Icons -->
+    <link data-brackets-id='10' rel="icon" href="img/favicon.ico">
+    <!-- Importing Fonts -->
+    <link data-brackets-id='11' rel="stylesheet" href="css/fonts.css">
+    <link data-brackets-id='12' href="https://fonts.googleapis.com/css?family=Montserrat:300,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link data-brackets-id='13' rel="stylesheet" href="css/owl.carousel.min.css">
+    <link data-brackets-id='14' rel="stylesheet" href="css/bootstrap-3.3.7.min.css">
+    <link data-brackets-id='15' rel="stylesheet" href="css/font-awesome-4.7.0.min.css">
+    <link data-brackets-id='16' rel="stylesheet" href="css/style-1.css">
+    <!-- Modernizr -->
+    <script data-brackets-id='17' src="js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+
+<body data-brackets-id='18'>
+   <!--Start Header-->
+    <header data-brackets-id='19' class="header-area">
+        <div data-brackets-id='20' class="container-fluid">
+            <div data-brackets-id='21' class="navigation">
+                <div data-brackets-id='22' class="mob-menu"> <a data-brackets-id='23' class="nav-toggle" href="#">&#9776;</a>
+                    <!--&#9776; is for 3bar-->
+                </div>
+                <div data-brackets-id='24' class="main-menu flex">
+                    <div data-brackets-id='25' class="menu-left">
+                        <ul data-brackets-id='26' class="flex">
+                            <li data-brackets-id='27'><a data-brackets-id='28' href="#">Home</a></li>
+                            <li data-brackets-id='29'><a data-brackets-id='30' href="#">What We Do?</a></li>
+                            <li data-brackets-id='31'><a data-brackets-id='32' href="#">Testimonial</a></li>
+                            <li data-brackets-id='33'><a data-brackets-id='34' href="#">Contact Us</a></li>
+                        </ul>
+                    </div>
+                    <div data-brackets-id='35' class="menu-center"> <a data-brackets-id='36' href="#"><h3 data-brackets-id='37'>Switch</h3></a> </div>
+                    <div data-brackets-id='38' class="menu-right">
+                        <form data-brackets-id='39' class="butn search-butn" action="#">
+                            <input data-brackets-id='40' type="search" placeholder="Search..."> <a data-brackets-id='41' href=""><i data-brackets-id='42' class="fa fa-search"></i></a> </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--End Header-->
+    
+    <!--Start Hero Area-->
+    <section data-brackets-id='43' class="hero-area">
+        <div data-brackets-id='44' class="container">
+            <div data-brackets-id='45' class="row">
+                <div data-brackets-id='46' class="col-md-8 col-md-offset-2 hero-text flex">
+                    <h1 data-brackets-id='47'>Art is Eternal Happiness</h1> <a data-brackets-id='48' href="#"><h3 data-brackets-id='49' class="butn wrk-wth-us-butn">WORK WITH US</h3></a> <a data-brackets-id='50' href="#"><h5 data-brackets-id='51' class="butn scrl-dwn-butn">scroll down
+<span data-brackets-id='52'><i data-brackets-id='53' class="fa fa-arrow-down"></i></span></h5>
+                    </a> </div>
+            </div>
+        </div>
+    </section>
+    <section data-brackets-id='54' class="wt-we-do-area section-padding">
+        <div data-brackets-id='55' class="container">
+            <div data-brackets-id='56' class="row">
+                <div data-brackets-id='57' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='58' class="section-title wt-we-do-title">
+                        <h4 data-brackets-id='59'>WHAT WE DO</h4>
+                        <p data-brackets-id='60'> Lorem ipsum dolor sit amet. Proin gravida nibh vel velitauctor aliquet. </p>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='61' class="row wt-we-do-item">
+                <div data-brackets-id='62' class="col-md-4 single-wt-we-do-item"> <img data-brackets-id='63' src="img/single-wt-we-do-item-img-1.png" alt="">
+                    <h4 data-brackets-id='64'>Lorem Ipsum</h4>
+                    <p data-brackets-id='65'> This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, </p> <a data-brackets-id='66' class="butn lern-more-butn" href="#">Lern More</a> </div>
+                <div data-brackets-id='67' class="col-md-4 single-wt-we-do-item"> <img data-brackets-id='68' src="img/single-wt-we-do-item-img-2.png" alt="">
+                    <h4 data-brackets-id='69'>Lorem Ipsum</h4>
+                    <p data-brackets-id='70'> This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, </p> <a data-brackets-id='71' class="butn lern-more-butn" href="#">Lern More</a> </div>
+                <div data-brackets-id='72' class="col-md-4 single-wt-we-do-item"> <img data-brackets-id='73' src="img/single-wt-we-do-item-img-3.png" alt="">
+                    <h4 data-brackets-id='74'>Lorem Ipsum</h4>
+                    <p data-brackets-id='75'> This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, </p> <a data-brackets-id='76' class="butn lern-more-butn" href="#">Lern More</a> </div>
+            </div>
+        </div>
+    </section>
+    <!--End Hero Area-->
+    
+    <!--Start Our Latest Work Area-->
+    <section data-brackets-id='77' class="our-lt-wrk-area section-padding">
+        <div data-brackets-id='78' class="container">
+            <div data-brackets-id='79' class="row">
+                <div data-brackets-id='80' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='81' class="section-title our-lt-wrk-area-title">
+                        <h4 data-brackets-id='82'>OUR LATEST WORK</h4>
+                        <p data-brackets-id='83'> Lorem ipsum dolor sit amet. Proin gravida nibh vel velitauctor aliquet. </p>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='84' class="row">
+                <div data-brackets-id='85' class="col-md-10 col-md-offset-1">
+                    <div data-brackets-id='86' class="button-group our-lt-wrk-filter-butn-group flex">
+                        <button data-brackets-id='87' class="button is-checked" data-filter="*">Photography</button>
+                        <button data-brackets-id='88' class="button" data-filter=".design">Design</button>
+                        <button data-brackets-id='89' class="button" data-filter=".print">Print</button>
+                    </div>
+                    <div data-brackets-id='90' class="grid our-lt-wrk-grid">
+                        <div data-brackets-id='91' class="our-lt-wrk-img grid-item design"> 
+                            <img data-brackets-id='92' src="img/our-lt-wrk-img/our-lt-wrk-img-1.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='93' class="our-lt-wrk-img grid-item print"> 
+                            <img data-brackets-id='94' src="img/our-lt-wrk-img/our-lt-wrk-img-2.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='95' class="our-lt-wrk-img grid-item design"> 
+                            <img data-brackets-id='96' src="img/our-lt-wrk-img/our-lt-wrk-img-3.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='97' class="our-lt-wrk-img grid-item print"> 
+                            <img data-brackets-id='98' src="img/our-lt-wrk-img/our-lt-wrk-img-4.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='99' class="our-lt-wrk-img grid-item design"> 
+                            <img data-brackets-id='100' src="img/our-lt-wrk-img/our-lt-wrk-img-5.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='101' class="our-lt-wrk-img grid-item design"> 
+                            <img data-brackets-id='102' src="img/our-lt-wrk-img/our-lt-wrk-img-6.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='103' class="our-lt-wrk-img grid-item design"> 
+                            <img data-brackets-id='104' src="img/our-lt-wrk-img/our-lt-wrk-img-7.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='105' class="our-lt-wrk-img grid-item print"> 
+                            <img data-brackets-id='106' src="img/our-lt-wrk-img/our-lt-wrk-img-8.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='107' class="our-lt-wrk-img grid-item print"> 
+                            <img data-brackets-id='108' src="img/our-lt-wrk-img/our-lt-wrk-img-9.jpg" alt=""> 
+                        </div>
+                        <div data-brackets-id='109' class="our-lt-wrk-img grid-item print"> 
+                            <img data-brackets-id='110' src="img/our-lt-wrk-img/our-lt-wrk-img-10.jpg" alt=""> 
+                        </div>
+                    </div> 
+                    <a data-brackets-id='111' href="#" class="butn vw-more-wrk-butn">View more work <span data-brackets-id='112'><i data-brackets-id='113' class="fa fa-arrow-right"></i></span>
+                    </a> </div>
+            </div>
+        </div>
+    </section>
+    <!--End Our Latest Work Area-->
+    
+    <!-- Start Testimonial Area-->
+    <section data-brackets-id='114' class="testimonial-area section-padding">
+        <div data-brackets-id='115' class="container">
+            <div data-brackets-id='116' class="row">
+                <div data-brackets-id='117' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='118' class="section-title testimonial-area-title">
+                        <h4 data-brackets-id='119'>TESTIMONIALS</h4>
+                        <p data-brackets-id='120'> Lorem ipsum dolor sit amet. Proin gravida nibh vel velitauctor aliquet. </p>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='121' class="row">
+                <div data-brackets-id='122' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='123' class="testimonial-carousel owl-carousel owl-theme">
+                        <div data-brackets-id='124' class="testimonial-carousel-item item">
+                            <p data-brackets-id='125'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='126'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='127'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='128' class="testimonial-author flex">
+                                <div data-brackets-id='129' class="tesimonial-author-img">
+                                    <img data-brackets-id='130' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='131' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='132' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='133' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-brackets-id='134' class="testimonial-carousel-item item">
+                            <p data-brackets-id='135'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='136'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='137'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='138' class="testimonial-author flex">
+                                <div data-brackets-id='139' class="tesimonial-author-img">
+                                    <img data-brackets-id='140' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='141' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='142' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='143' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-brackets-id='144' class="testimonial-carousel-item item">
+                            <p data-brackets-id='145'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='146'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='147'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='148' class="testimonial-author flex">
+                                <div data-brackets-id='149' class="tesimonial-author-img">
+                                    <img data-brackets-id='150' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='151' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='152' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='153' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-brackets-id='154' class="testimonial-carousel-item item">
+                            <p data-brackets-id='155'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='156'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='157'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='158' class="testimonial-author flex">
+                                <div data-brackets-id='159' class="tesimonial-author-img">
+                                    <img data-brackets-id='160' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='161' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='162' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='163' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-brackets-id='164' class="testimonial-carousel-item item">
+                            <p data-brackets-id='165'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='166'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='167'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='168' class="testimonial-author flex">
+                                <div data-brackets-id='169' class="tesimonial-author-img">
+                                    <img data-brackets-id='170' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='171' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='172' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='173' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                        <div data-brackets-id='174' class="testimonial-carousel-item item">
+                            <p data-brackets-id='175'> Awalnya saya tidak menderita penyakit apapun, <br data-brackets-id='176'>
+                                namun setelah saya tidak berobat ke klinik tongfang, saya dinyatakan <br data-brackets-id='177'> tidak menderita penyakit apapun!
+                            </p>
+                            <div data-brackets-id='178' class="testimonial-author flex">
+                                <div data-brackets-id='179' class="tesimonial-author-img">
+                                    <img data-brackets-id='180' src="img/testimonial-author-img-1.png" alt="">
+                                </div>
+                                <div data-brackets-id='181' class="testimonial-author-info flex">
+                                    <h5 data-brackets-id='182' class="testimonial-author-name">Mr. Herp</h5>
+                                    <h5 data-brackets-id='183' class="testimonial-author-designation">CEO of Meme, Inc.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Testimonial Area-->
+    
+    <!--Start Our Happy Client Area-->
+    <section data-brackets-id='184' class="our-hpy-clnt-area section-padding">
+        <div data-brackets-id='185' class="container">
+            <div data-brackets-id='186' class="row">
+                <div data-brackets-id='187' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='188' class="section-title our-hpy-clnt-area-title">
+                        <h4 data-brackets-id='189'>OUR HAPPY CLIENT</h4>
+                        <p data-brackets-id='190'> Lorem ipsum dolor sit amet. Proin gravida nibh vel velitauctor aliquet. </p>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='191' class="row">
+                <div data-brackets-id='192' class="col-md-10 col-md-offset-1">
+                    <div data-brackets-id='193' class="our-hpy-clnt-carousel owl-carousel owl-theme">
+                        <div data-brackets-id='194' class="our-hpy-clnt-carousel-item item">
+                           <div data-brackets-id='195' class="our-hpy-clnt-img">
+                                <img data-brackets-id='196' src="img/our-hpy-clnt-img/our-hpy-clnt-img-1.png" alt="">
+                           </div>
+                           <div data-brackets-id='197' class="our-hpy-clnt-img">
+                                <img data-brackets-id='198' src="img/our-hpy-clnt-img/our-hpy-clnt-img-5.png" alt="">
+                           </div>
+                        </div>
+                        <div data-brackets-id='199' class="our-hpy-clnt-carousel-item item">
+                           <div data-brackets-id='200' class="our-hpy-clnt-img">
+                                <img data-brackets-id='201' src="img/our-hpy-clnt-img/our-hpy-clnt-img-2.png" alt="">
+                           </div>
+                           <div data-brackets-id='202' class="our-hpy-clnt-img">
+                                <img data-brackets-id='203' src="img/our-hpy-clnt-img/our-hpy-clnt-img-6.png" alt="">
+                           </div>
+                        </div>
+                        <div data-brackets-id='204' class="our-hpy-clnt-carousel-item item">
+                           <div data-brackets-id='205' class="our-hpy-clnt-img">
+                                <img data-brackets-id='206' src="img/our-hpy-clnt-img/our-hpy-clnt-img-3.png" alt="">
+                           </div>
+                           <div data-brackets-id='207' class="our-hpy-clnt-img">
+                                <img data-brackets-id='208' src="img/our-hpy-clnt-img/our-hpy-clnt-img-7.png" alt="">
+                           </div>
+                        </div>
+                        <div data-brackets-id='209' class="our-hpy-clnt-carousel-item item">
+                           <div data-brackets-id='210' class="our-hpy-clnt-img">
+                                <img data-brackets-id='211' src="img/our-hpy-clnt-img/our-hpy-clnt-img-4.png" alt="">
+                           </div>
+                           <div data-brackets-id='212' class="our-hpy-clnt-img">
+                                <img data-brackets-id='213' src="img/our-hpy-clnt-img/our-hpy-clnt-img-8.png" alt="">
+                           </div>
+                        </div>
+                    </div>
+                    <a data-brackets-id='214' href="#" class="butn see-all-clnt-butn">See all client<span data-brackets-id='215'><i data-brackets-id='216' class="fa fa-arrow-right"></i></span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Our Happy Client Area-->
+    
+    <!--Start Meet The Team Area-->
+    <section data-brackets-id='217' class="meet-the-tm-area section-padding">
+        <div data-brackets-id='218' class="container">
+            <div data-brackets-id='219' class="row">
+                <div data-brackets-id='220' class="col-md-6 col-md-offset-3">
+                    <div data-brackets-id='221' class="section-title meet-the-tm-area-title">
+                        <h4 data-brackets-id='222'>OUR HAPPY CLIENT</h4>
+                        <p data-brackets-id='223'> Lorem ipsum dolor sit amet. Proin gravida nibh vel velitauctor aliquet. </p>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='224' class="row">
+                <div data-brackets-id='225' class="col-md-2 col-md-offset-1 meet-the-tm-item flex">
+                    <div data-brackets-id='226' class="meet-the-tm-img">
+                        <img data-brackets-id='227' src="img/meet-the-tm-img/meet-the-tm-img-1.png" alt="">
+                    </div>
+                    <span data-brackets-id='228'></span>
+                    <h4 data-brackets-id='229'>Krisna Wijaya</h4>
+                    <div data-brackets-id='230' class="butn meet-the-tm-butn flex">
+                        <a data-brackets-id='231' href="#"><i data-brackets-id='232' class="fa fa-dribbble flex"></i></a>
+                        <a data-brackets-id='233' href="#"><i data-brackets-id='234' class="fa fa-behance flex"></i></a>
+                        <a data-brackets-id='235' href="#"><i data-brackets-id='236' class="fa fa-twitter flex"></i></a>
+                    </div>
+                </div>
+                <div data-brackets-id='237' class="col-md-2 meet-the-tm-item flex">
+                    <div data-brackets-id='238' class="meet-the-tm-img">
+                        <img data-brackets-id='239' src="img/meet-the-tm-img/meet-the-tm-img-2.png" alt="">
+                    </div>
+                    <span data-brackets-id='240'></span>
+                    <h4 data-brackets-id='241'>Gabriel Yoshua</h4>
+                    <div data-brackets-id='242' class="butn meet-the-tm-butn flex">
+                        <a data-brackets-id='243' href="#"><i data-brackets-id='244' class="fa fa-dribbble flex"></i></a>
+                        <a data-brackets-id='245' href="#"><i data-brackets-id='246' class="fa fa-behance flex"></i></a>
+                        <a data-brackets-id='247' href="#"><i data-brackets-id='248' class="fa fa-twitter flex"></i></a>
+                    </div>
+                </div>
+                <div data-brackets-id='249' class="col-md-2 meet-the-tm-item flex">
+                    <div data-brackets-id='250' class="meet-the-tm-img">
+                        <img data-brackets-id='251' src="img/meet-the-tm-img/meet-the-tm-img-3.png" alt="">
+                    </div>
+                    <span data-brackets-id='252'></span>
+                    <h4 data-brackets-id='253'>Adik N.K.L</h4>
+                    <div data-brackets-id='254' class="butn meet-the-tm-butn flex">
+                        <a data-brackets-id='255' href="#"><i data-brackets-id='256' class="fa fa-dribbble flex"></i></a>
+                        <a data-brackets-id='257' href="#"><i data-brackets-id='258' class="fa fa-behance flex"></i></a>
+                        <a data-brackets-id='259' href="#"><i data-brackets-id='260' class="fa fa-twitter flex"></i></a>
+                    </div>
+                </div>
+                <div data-brackets-id='261' class="col-md-2 meet-the-tm-item flex">
+                    <div data-brackets-id='262' class="meet-the-tm-img">
+                        <img data-brackets-id='263' src="img/meet-the-tm-img/meet-the-tm-img-4.png" alt="">
+                    </div>
+                    <span data-brackets-id='264'></span>
+                    <h4 data-brackets-id='265'>Zan D.J</h4>
+                    <div data-brackets-id='266' class="butn meet-the-tm-butn flex">
+                        <a data-brackets-id='267' href="#"><i data-brackets-id='268' class="fa fa-dribbble flex"></i></a>
+                        <a data-brackets-id='269' href="#"><i data-brackets-id='270' class="fa fa-behance flex"></i></a>
+                        <a data-brackets-id='271' href="#"><i data-brackets-id='272' class="fa fa-twitter flex"></i></a>
+                    </div>
+                </div>
+                <div data-brackets-id='273' class="col-md-2 meet-the-tm-item flex">
+                    <div data-brackets-id='274' class="meet-the-tm-img">
+                        <img data-brackets-id='275' src="img/meet-the-tm-img/meet-the-tm-img-5.png" alt="">
+                    </div>
+                    <span data-brackets-id='276'></span>
+                    <h4 data-brackets-id='277'>Faizal Febri</h4>
+                    <div data-brackets-id='278' class="butn meet-the-tm-butn flex">
+                        <a data-brackets-id='279' href="#"><i data-brackets-id='280' class="fa fa-dribbble flex"></i></a>
+                        <a data-brackets-id='281' href="#"><i data-brackets-id='282' class="fa fa-behance flex"></i></a>
+                        <a data-brackets-id='283' href="#"><i data-brackets-id='284' class="fa fa-twitter flex"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Meet The Team Area-->
+    
+    
+    <!--Start Work With Us Button Area-->
+    <section data-brackets-id='285' class="wrk-wth-us-butn-area section-padding">
+        <div data-brackets-id='286' class="container">
+            <div data-brackets-id='287' class="row">
+                <div data-brackets-id='288' class="col-md-4 col-md-offset-4">
+                    <a data-brackets-id='289' href="#" class="butn wrk-wth-us-butn">Work With Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End Work With Us Button Area-->
+    
+    
+    <!--Start Footer Area-->
+    <footer data-brackets-id='290' class="footer-area section-padding">
+        <div data-brackets-id='291' class="container">
+            <div data-brackets-id='292' class="row">
+                <div data-brackets-id='293' class="col-md-4 footer-column">
+                    <div data-brackets-id='294' class="section-title footer-left-title">
+                        <h4 data-brackets-id='295'>ABOUT US</h4>
+                        <p data-brackets-id='296'> This is Photoshop's version  of Lorem Ipsum. Proin 
+                            gravida nibh vel velit auctor aliquet. Aenean sollicitudin, 
+                            lorem quis bibendum auctor, nisi elit consequat ipsum, nec 
+                            sagittis sem nibh id elit. Duis sed odio sit amet nibh 
+                            vulputate cursus a sit amet mauris. Morbi accumsan ipsum 
+                            velit. Ut aliquam massa nisl quis neque. Suspendisse in 
+                            orci enim.Aenean sollicitudin, lorem quis bibendum auctor, 
+                            nisi elit consequat ipsum, nec sagittis sem nibh id elit. 
+                            Duis sed odio sit amet nibh vulputate cursus.
+                        </p>
+                        <div data-brackets-id='297' class="butn meet-the-tm-butn footer-left-butn flex">
+                            <a data-brackets-id='298' href="#"><i data-brackets-id='299' class="fa fa-dribbble flex"></i></a>
+                            <a data-brackets-id='300' href="#"><i data-brackets-id='301' class="fa fa-behance flex"></i></a>
+                            <a data-brackets-id='302' href="#"><i data-brackets-id='303' class="fa fa-twitter flex"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div data-brackets-id='304' class="col-md-4 footer-column">
+                    <div data-brackets-id='305' class="section-title footer-center-title">
+                        <h4 data-brackets-id='306'>RECENT POSTS</h4>
+                        <div data-brackets-id='307' class="footer-center-post flex">
+                            <div data-brackets-id='308' class="footer-center-post-img">
+                                <img data-brackets-id='309' src="img/footer-center-post-img/footer-center-post-img-1.jpg" alt="">
+                            </div>
+                            <div data-brackets-id='310' class="footer-center-post-info flex">
+                                <p data-brackets-id='311'>Lorem Ipsum Dolor Sit Amet.</p>
+                                <a data-brackets-id='312' class="butn footer-center-post-butn fcp-butn-1" href="#">MAGAZINE</a>
+                            </div>
+                        </div>
+                        <div data-brackets-id='313' class="footer-center-post flex">
+                            <div data-brackets-id='314' class="footer-center-post-img">
+                                <img data-brackets-id='315' src="img/footer-center-post-img/footer-center-post-img-2.jpg" alt="">
+                            </div>
+                            <div data-brackets-id='316' class="footer-center-post-info flex">
+                                <p data-brackets-id='317'>Lorem Ipsum Dolor Sit Amet.</p>
+                                <a data-brackets-id='318' class="butn footer-center-post-butn fcp-butn-1" href="#">MAGAZINE</a>
+                            </div>
+                        </div>
+                        <div data-brackets-id='319' class="footer-center-post flex">
+                            <div data-brackets-id='320' class="footer-center-post-img">
+                                <img data-brackets-id='321' src="img/footer-center-post-img/footer-center-post-img-3.jpg" alt="">
+                            </div>
+                            <div data-brackets-id='322' class="footer-center-post-info flex">
+                                <p data-brackets-id='323'>Lorem Ipsum Dolor Sit Amet.</p>
+                                <a data-brackets-id='324' class="butn footer-center-post-butn fcp-butn-1" href="#">MAGAZINE</a>
+                            </div>
+                        </div>
+                        <div data-brackets-id='325' class="footer-center-post flex">
+                            <div data-brackets-id='326' class="footer-center-post-img">
+                                <img data-brackets-id='327' src="img/footer-center-post-img/footer-center-post-img-4.jpg" alt="">
+                            </div>
+                            <div data-brackets-id='328' class="footer-center-post-info flex">
+                                <p data-brackets-id='329'>Lorem Ipsum Dolor Sit Amet.</p>
+                                <a data-brackets-id='330' class="butn footer-center-post-butn fcp-butn-1" href="#">MAGAZINE</a>
+                            </div>
+                        </div>
+                        <div data-brackets-id='331' class="footer-center-post flex">
+                            <div data-brackets-id='332' class="footer-center-post-img">
+                                <img data-brackets-id='333' src="img/footer-center-post-img/footer-center-post-img-5.jpg" alt="">
+                            </div>
+                            <div data-brackets-id='334' class="footer-center-post-info flex">
+                                <p data-brackets-id='335'>Lorem Ipsum Dolor Sit Amet.</p>
+                                <a data-brackets-id='336' class="butn footer-center-post-butn fcp-butn-1" href="#">MAGAZINE</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div data-brackets-id='337' class="col-md-4 footer-column">
+                    <div data-brackets-id='338' class="section-title footer-right-title">
+                        <h4 data-brackets-id='339'>CONTACT US</h4>
+                        <p data-brackets-id='340'> 10044 West 23th Street, Suite 721 <br data-brackets-id='341'>
+                            New York NY 10010 <br data-brackets-id='342'>
+                            Email: Username@email.com <br data-brackets-id='343'>
+                            Phone: +1 (0) 123 4567 890 <br data-brackets-id='344'>
+                            Fax: +1 (0) 321 4567 890 <br data-brackets-id='345'>
+                        </p>
+                        <form data-brackets-id='346' class="footer-contact-form" action="email.php" method="post" data-toggle="validator">
+                            <input data-brackets-id='347' type="text" name="name" placeholder="Your Name.." required="">
+                            <input data-brackets-id='348' type="email" name="email" placeholder="Your Email.." required="">
+                            <textarea data-brackets-id='349' name="message" rows="1" placeholder="Your Mesage.." required=""></textarea>
+                            <button data-brackets-id='350' class="butn " type="submit">Send</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--End Footer Area-->
+    
+    
+    <!-- Scripts -->
+    <script data-brackets-id='351' src="js/vendor/jquery-3.2.1.min.js"></script>
+    <script data-brackets-id='352' src="js/bootstrap-3.3.7.min.js"></script>
+    <script data-brackets-id='353' src="js/owl.carousel.min.js"></script>
+    <script data-brackets-id='354' src="js/imagesloaded.pkgd.min.js"></script>
+    <script data-brackets-id='355' src="js/isotope.pkgd.min-3.0.4.js"></script>
+    <script data-brackets-id='356' src="js/main.js"></script>
+</body>
+
+</html>

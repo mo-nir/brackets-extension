@@ -1,0 +1,48 @@
+{
+   "checksum": "41497a052c0799697e40d89cec10b75e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13131959378694337",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13136889286033106"
+            },
+            "name": "rasel, Author at WordPress CheatSheet",
+            "type": "url",
+            "url": "http://wpcheatsheet.net/author/rasel/"
+         }, {
+            "date_added": "13132476395266758",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13136901216914533"
+            },
+            "name": "Code Beautifier: CSS Formatter and Optimiser",
+            "type": "url",
+            "url": "http://www.codebeautifier.com/#skip"
+         } ],
+         "date_added": "13131952646574636",
+         "date_modified": "13132476395266758",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13131952646574641",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13131952646574642",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

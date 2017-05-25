@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "MB-Ruler stellt ein Overlay zum Messen von Abständen und Winkeln am Bildschirm zur Verfügung."
+   },
+   "appName": {
+      "description": "Titel in the web store",
+      "message": "MB-Ruler für Chrome"
+   }
+}

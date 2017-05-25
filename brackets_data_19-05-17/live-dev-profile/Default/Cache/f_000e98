@@ -1,0 +1,248 @@
+<!doctype html>
+<html data-brackets-id='2725' class="no-js" lang="en">
+  <head data-brackets-id='2726'>
+    <!-- Meta Tags -->
+    <meta data-brackets-id='2727' charset="utf-8">
+    <meta data-brackets-id='2728' http-equiv="x-ua-compatible" content="ie=edge">
+    <meta data-brackets-id='2729' name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-brackets-id='2730' name="author" content="Pressionate">
+    <meta data-brackets-id='2731' name="description" content="">
+    <meta data-brackets-id='2732' name="keywords" content="">
+    <!-- Page Title -->
+    <title data-brackets-id='2733'>Presley - Creative Portfolio HTML Template</title>
+    <!-- Favicon and Apple Touch Icon -->
+    <link data-brackets-id='2734' rel="icon" href="img/favicon.png">
+    <link data-brackets-id='2735' rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Google Fonts -->
+    <link data-brackets-id='2736' href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link data-brackets-id='2737' href="css/plugins.css" rel="stylesheet">
+    <link data-brackets-id='2738' href="css/responsive.css" rel="stylesheet">
+    <link data-brackets-id='2739' href="css/style.css" rel="stylesheet">
+    <link data-brackets-id='2740' rel="stylesheet" href="css/custom.css">
+</head>
+
+<body data-brackets-id='2741'>
+    <!-- header -->
+    <header data-brackets-id='2742' class="header">
+        <!-- navbar -->
+        <nav data-brackets-id='2743' id="mainNav" class="navbar navbar-default navbar-fixed-top custom-nav animated fadeInUp visible">
+            <div data-brackets-id='2744' class="container">
+                <!-- toggle menu -->
+                <div data-brackets-id='2745' class="navbar-header">
+                    <button data-brackets-id='2746' type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span data-brackets-id='2747' class="sr-only">Toggle navigation</span><i data-brackets-id='2748' class="fa fa-bars"></i>
+                    </button>
+                    <a data-brackets-id='2749' class="navbar-brand" href="index.html">PRESLEY</a>
+                </div>
+
+                <!-- navbar links -->
+                <div data-brackets-id='2750' class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul data-brackets-id='2751' class="nav navbar-nav pull-right mobile-responsive">
+                        <li data-brackets-id='2752' class="dropdown animated transform-custom-ms fadeInDown visible">
+                            <a data-brackets-id='2753' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Home</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2754' class="dropdown-menu">
+                                <li data-brackets-id='2755'><a data-brackets-id='2756' href="index.html">Home - 1</a></li>
+                                <li data-brackets-id='2757'><a data-brackets-id='2758' href="home-2.html">Home - 2</a></li>
+                                <li data-brackets-id='2759'><a data-brackets-id='2760' href="home-3.html">Home - 3</a></li>
+                                <li data-brackets-id='2761'><a data-brackets-id='2762' href="home-4.html">Home - 4</a></li>
+                                <li data-brackets-id='2763'><a data-brackets-id='2764' href="home-5.html">Home - 5</a></li>
+                                <li data-brackets-id='2765'><a data-brackets-id='2766' href="home-6.html">Home - 6</a></li>
+                                <li data-brackets-id='2767'><a data-brackets-id='2768' href="home-7.html">Home - 7</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2769'>
+                            <a data-brackets-id='2770' href="about.html">About</a>
+                        </li>
+                        <li data-brackets-id='2771'>
+                            <a data-brackets-id='2772' href="service.html">Services</a>
+                        </li>
+                        <li data-brackets-id='2773' class="dropdown">
+                            <a data-brackets-id='2774' href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2775' class="dropdown-menu">
+                                <li data-brackets-id='2776'><a data-brackets-id='2777' href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                                <li data-brackets-id='2778'><a data-brackets-id='2779' href="portfolio-even-grid.html">Portfolio Even Grid</a></li>
+                                <li data-brackets-id='2780'><a data-brackets-id='2781' href="portfolio-single.html">Portfolio Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2782' class="dropdown active">
+                            <a data-brackets-id='2783' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Blog</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='2784' class="dropdown-menu">
+                                <li data-brackets-id='2785' class="active"><a data-brackets-id='2786' href="blog.html">Blog Grid</a></li>
+                                <li data-brackets-id='2787'><a data-brackets-id='2788' href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='2789'>
+                            <a data-brackets-id='2790' href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+    </header>
+    <!-- end header -->
+
+    <!-- page title -->
+    <div data-brackets-id='2791' class="page-title">
+        <div data-brackets-id='2792' class="overlay"></div>
+        <nav data-brackets-id='2793' class="text-center animated fadeInUp visible">
+            <h3 data-brackets-id='2794'>HERE IS OUR LATEST WORKS</h3>
+            <a data-brackets-id='2795' class="breadcrumb-item" href="index.html">HOME // </a>
+            <span data-brackets-id='2796' class="breadcrumb-item active"> BLOG </span>
+        </nav>
+    </div>
+    <!-- page title -->
+    <!-- blog -->
+    <section data-brackets-id='2797' id="blog" class="blog-grid-section">
+        <!-- container -->
+        <div data-brackets-id='2798' class="container">
+            <!-- row -->
+            <div data-brackets-id='2799' class="row">
+                <!-- col-4 -->
+                <div data-brackets-id='2800' class="col-md-6 blog-grid animated fadeInRight visible">
+                    <div data-brackets-id='2801' class="post-img">
+                        <img data-brackets-id='2802' src="img/blog/1.jpg" class="img-responsive" alt="" title="" width="555" height="249">
+                    </div>
+                    <!-- BLOG DESC -->
+                    <div data-brackets-id='2803' class="blog-desc">
+                        <div data-brackets-id='2804' class="pad-tb-20">
+                            <h4 data-brackets-id='2805'>LIFE SPENT WITH DESIGN</h4>
+                            <span data-brackets-id='2806'><a data-brackets-id='2807' href="#">Design</a>, </span>
+                            <span data-brackets-id='2808'><a data-brackets-id='2809' href="#"> Development</a></span>
+                        </div>
+                            <p data-brackets-id='2810'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet ligula mauris, vel aliquet dui imperdiet at. Phasellus eu rhoncus tellus. Vestibulum vehicula mi ac orci hendrerit, vel interdum erat dignissim.</p>
+                        <!-- button -->
+                        <div data-brackets-id='2811' class="read pad-top-20">
+                            <span data-brackets-id='2812' class="date">12 Jul, 2017</span>
+                            <a data-brackets-id='2813' class="pull-right" href="blog-single.html">READ MORE<i data-brackets-id='2814' class="ion-ios-arrow-thin-right fa-1x"></i></a>
+                        </div>
+                    </div>
+                    <!-- END BLOG DESC -->
+                </div>
+                <!-- end col-6 -->
+                <!-- col-4 -->
+                <div data-brackets-id='2815' class="col-md-6 blog-grid animated fadeInRight visible">
+                    <div data-brackets-id='2816' class="post-img">
+                        <img data-brackets-id='2817' src="img/blog/2.jpg" class="img-responsive" alt="" title="" width="555" height="249">
+                    </div>
+                    <!-- BLOG DESC -->
+                    <div data-brackets-id='2818' class="blog-desc">
+                        <div data-brackets-id='2819' class="pad-tb-20">
+                            <h4 data-brackets-id='2820'>MINIMAL CREATIVE PORTFOLIO</h4>
+                            <span data-brackets-id='2821'><a data-brackets-id='2822' href="#">Design</a>, </span>
+                            <span data-brackets-id='2823'><a data-brackets-id='2824' href="#"> Development</a></span>
+                        </div>
+                            <p data-brackets-id='2825'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet ligula mauris, vel aliquet dui imperdiet at. Phasellus eu rhoncus tellus. Vestibulum vehicula mi ac orci hendrerit, vel interdum erat dignissim.</p>
+                        <!-- button -->
+                        <div data-brackets-id='2826' class="read pad-top-20">
+                            <span data-brackets-id='2827' class="date">18 Dec, 2017</span>
+                            <a data-brackets-id='2828' class="pull-right" href="blog-single.html">READ MORE<i data-brackets-id='2829' class="ion-ios-arrow-thin-right fa-1x"></i></a>
+                        </div>
+                    </div>
+                    <!-- END BLOG DESC -->
+                </div>
+                <!-- end col-6 -->
+                <!-- col-4 -->
+                <div data-brackets-id='2830' class="col-md-6 blog-grid animated fadeInRight visible">
+                    <div data-brackets-id='2831' class="post-img">
+                        <img data-brackets-id='2832' src="img/blog/3.jpg" class="img-responsive" alt="" title="" width="555" height="249">
+                    </div>
+                    <!-- BLOG DESC -->
+                    <div data-brackets-id='2833' class="blog-desc pad-bottom-40">
+                        <div data-brackets-id='2834' class="pad-tb-20">
+                            <h4 data-brackets-id='2835'>PERFECT SOLUTION</h4>
+                            <span data-brackets-id='2836'><a data-brackets-id='2837' href="#">Design</a>, </span>
+                            <span data-brackets-id='2838'><a data-brackets-id='2839' href="#"> Development</a></span>
+                        </div>
+                            <p data-brackets-id='2840'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet ligula mauris, vel aliquet dui imperdiet at. Phasellus eu rhoncus tellus. Vestibulum vehicula mi ac orci hendrerit, vel interdum erat dignissim.</p>
+                        <!-- button -->
+                        <div data-brackets-id='2841' class="read pad-top-20">
+                            <span data-brackets-id='2842' class="date">07 Nov, 2017</span>
+                            <a data-brackets-id='2843' class="pull-right" href="blog-single.html">READ MORE<i data-brackets-id='2844' class="ion-ios-arrow-thin-right fa-1x"></i></a>
+                        </div>
+                    </div>
+                    <!-- END BLOG DESC -->
+                </div>
+                <!-- end col-6 -->
+                <!-- col-4 -->
+                <div data-brackets-id='2845' class="col-md-6 blog-grid animated fadeInRight visible">
+                    <div data-brackets-id='2846' class="post-img">
+                        <img data-brackets-id='2847' src="img/blog/4.jpg" class="img-responsive" alt="" title="" width="555" height="249">
+                    </div>
+                    <!-- BLOG DESC -->
+                    <div data-brackets-id='2848' class="blog-desc">
+                        <div data-brackets-id='2849' class="pad-tb-20">
+                            <h4 data-brackets-id='2850'>SECRETES ABOUT INVESTMENT</h4>
+                            <span data-brackets-id='2851'><a data-brackets-id='2852' href="#">Design</a>, </span>
+                            <span data-brackets-id='2853'><a data-brackets-id='2854' href="#"> Development</a></span>
+                        </div>
+                            <p data-brackets-id='2855'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam imperdiet ligula mauris, vel aliquet dui imperdiet at. Phasellus eu rhoncus tellus. Vestibulum vehicula mi ac orci hendrerit, vel interdum erat dignissim.</p>
+                        <!-- button -->
+                        <div data-brackets-id='2856' class="read pad-top-20">
+                            <span data-brackets-id='2857' class="date">11 Aug, 2017</span>
+                            <a data-brackets-id='2858' class="pull-right" href="blog-single.html">READ MORE<i data-brackets-id='2859' class="ion-ios-arrow-thin-right fa-1x"></i></a>
+                        </div>
+                    </div>
+                    <!-- END BLOG DESC -->
+                </div>
+                <!-- end col-6 -->
+            </div>
+            <div data-brackets-id='2860' class="blog-buttons text-center">
+                <a data-brackets-id='2861' href="#"><i data-brackets-id='2862' class="fa fa-angle-left" aria-hidden="true"></i></a>
+                <a data-brackets-id='2863' href="#">1</a>
+                <a data-brackets-id='2864' href="#">2</a>
+                <a data-brackets-id='2865' href="#">3</a>
+                <a data-brackets-id='2866' href="#"><i data-brackets-id='2867' class="fa fa-angle-right" aria-hidden="true"></i></a>
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- end blog -->
+
+    <!-- Back to Top -->
+    <a data-brackets-id='2868' href="#" id="back-to-top" title="Back to top" class="show"></a>
+
+    <!-- Start Footer -->
+    <footer data-brackets-id='2869' class="custom-footer">
+        <div data-brackets-id='2870' class="container">
+            <div data-brackets-id='2871' class="copyright">
+                <p data-brackets-id='2872'>Copyright &copy; 2017 PRESLEY. All Rights Reserved. Designed by <a data-brackets-id='2873' href="http://pressionate.com" target="_blank">Pressionate</a>.</p>
+            </div>
+            <ul data-brackets-id='2874' class="list-inline f-social pad-top-20">
+                <li data-brackets-id='2875'>
+                    <a data-brackets-id='2876' href="#"><i data-brackets-id='2877' class="fa fa-facebook"></i>Facebook</a>
+                </li>
+                <li data-brackets-id='2878'>
+                    <a data-brackets-id='2879' href="#"><i data-brackets-id='2880' class="fa fa-twitter"></i>Twitter</a>
+                </li>
+                <li data-brackets-id='2881'>
+                    <a data-brackets-id='2882' href="#"><i data-brackets-id='2883' class="fa fa-dribbble"></i>Dribbble</a>
+                </li>
+                <li data-brackets-id='2884'>
+                    <a data-brackets-id='2885' href="#"><i data-brackets-id='2886' class="fa fa-instagram"></i>Instagram</a>
+                </li>
+                <li data-brackets-id='2887'>
+                    <a data-brackets-id='2888' href="#"><i data-brackets-id='2889' class="fa fa-google-plus"></i>Google+</a>
+                </li>
+                <li data-brackets-id='2890'>
+                    <a data-brackets-id='2891' href="#"><i data-brackets-id='2892' class="fa fa-linkedin"></i>Linkedin</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script data-brackets-id='2893' src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script data-brackets-id='2894' src="js/plugins.js"></script>
+    <script data-brackets-id='2895' src="js/main.js"></script>
+
+</body>
+</html>

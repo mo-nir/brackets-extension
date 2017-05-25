@@ -1,0 +1,35 @@
+body {
+    /*background-image:url(./images/background.png);)
+    background-repeat:no-repeat;
+    */
+    left: 5px;
+    width: 200px;
+    height: 150px;
+}
+
+.paypal {
+    width: 130px;
+    top: 200px;
+    position: absolute;
+}
+
+div.mainform {
+    left:0;
+    top:0;
+    width:1028px;
+    height:744px;
+    clear:both;
+    text-align:left;
+    position: absolute;
+}
+
+#homepage {
+    top: 120px;
+    position: absolute;
+}
+
+#support {
+    left: 100px;
+    top: 120px;
+    position: absolute;
+}

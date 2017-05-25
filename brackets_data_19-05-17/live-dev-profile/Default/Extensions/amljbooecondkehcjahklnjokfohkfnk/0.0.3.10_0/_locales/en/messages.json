@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "MB-Ruler is an overlay to measure distances and angels on web sites"
+   },
+   "appName": {
+      "description": "Titel in the web store",
+      "message": "MB-Ruler for Chrome"
+   }
+}

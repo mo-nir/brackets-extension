@@ -1,0 +1,647 @@
+<!doctype html>
+<html data-brackets-id='1' class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head data-brackets-id='2'><style data-brackets-id='3' id="stndz-style">div[class*="item-container-obpd"], a[data-redirect*="paid.outbrain.com"], a[onmousedown*="paid.outbrain.com"] { display: none !important; } a div[class*="item-container-ad"] { height: 0px !important; overflow: hidden !important; position: absolute !important; } div[data-item-syndicated="true"] { display: none !important; } .grv_is_sponsored { display: none !important; } .zergnet-widget-related { display: none !important; } </style>
+	<!-- Meta Tags -->
+	<meta data-brackets-id='4' charset="utf-8">
+	<meta data-brackets-id='5' http-equiv="x-ua-compatible" content="ie=edge">
+	<meta data-brackets-id='6' name="viewport" content="width=device-width, initial-scale=1">
+	<meta data-brackets-id='7' name="author" content="">
+	<meta data-brackets-id='8' name="description" content="">
+	<meta data-brackets-id='9' name="keywords" content="">
+	<!-- Page Title -->
+	<title data-brackets-id='10'>My Account - Premix</title>   
+	<!-- Favicon and Apple Touch Icon -->
+	<link data-brackets-id='11' rel="icon" href="img/favicon.png">
+	<link data-brackets-id='12' rel="apple-touch-icon" href="img/apple-touch-icon.png">   
+	<!-- Google Fonts  -->
+	<link data-brackets-id='13' href="https://fonts.googleapis.com/css?family=Dosis:300,400,500,600,700%7CRoboto:300,400" rel="stylesheet">     
+	<!-- Stylesheets -->
+	<link data-brackets-id='14' rel="stylesheet" href="css/plugins.css">
+	<link data-brackets-id='15' rel="stylesheet" href="css/style.css">
+	<link data-brackets-id='16' rel="stylesheet" href="css/custom.css">
+	<!-- Modernizr -->
+	<script data-brackets-id='17' src="js/vendor/modernizr-2.8.3.min.js"></script>
+<style data-brackets-id='18' type="text/css">.aplayer-narrow {
+  width: 66px; }
+  .aplayer-narrow .aplayer-info {
+    display: none; }
+
+.aplayer-withlrc.aplayer-narrow {
+  width: 90px; }
+
+.aplayer-withlrc.aplayer .aplayer-pic {
+  height: 90px;
+  width: 90px; }
+
+.aplayer-withlrc.aplayer .aplayer-info {
+  margin-left: 90px;
+  height: 90px; }
+
+.aplayer-withlrc.aplayer .aplayer-lrc {
+  display: block; }
+
+.aplayer-withlrc.aplayer .aplayer-info {
+  padding: 10px 7px 0 7px; }
+
+.aplayer-withlist.aplayer .aplayer-info {
+  border-bottom: 1px solid #e9e9e9; }
+
+.aplayer-withlist.aplayer .aplayer-list {
+  display: block; }
+
+.aplayer-withlist.aplayer .aplayer-icon-menu {
+  display: inline !important; }
+
+.aplayer {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 2px;
+  overflow: hidden;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  line-height: initial; }
+  .aplayer * {
+    box-sizing: content-box; }
+  .aplayer .aplayer-icon {
+    width: 15px;
+    height: 15px;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    opacity: .8;
+    vertical-align: middle;
+    padding: 0;
+    font-size: 12px;
+    margin: 0;
+    display: inline; }
+    .aplayer .aplayer-icon .aplayer-fill {
+      -webkit-transition: all .2s ease-in-out;
+      transition: all .2s ease-in-out; }
+  .aplayer .aplayer-lrc-content {
+    display: none; }
+  .aplayer .aplayer-pic {
+    position: relative;
+    float: left;
+    height: 66px;
+    width: 66px;
+    background-image: url(data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAeAAD/4QMfaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzA2NyA3OS4xNTc3NDcsIDIwMTUvMDMvMzAtMjM6NDA6NDIgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjE2NjQ3NUZBM0Y4RDExRTY4NzJCRDdCNkZCQTQ0MjNBIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjE2NjQ3NUY5M0Y4RDExRTY4NzJCRDdCNkZCQTQ0MjNBIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSI5OENEMEFFRjM0NTI1NjE0NEREQkU4RjkxRjAwNjM3NiIgc3RSZWY6ZG9jdW1lbnRJRD0iOThDRDBBRUYzNDUyNTYxNDREREJFOEY5MUYwMDYzNzYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7/7gAOQWRvYmUAZMAAAAAB/9sAhAAQCwsLDAsQDAwQFw8NDxcbFBAQFBsfFxcXFxcfHhca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);
+    background-size: 100%;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease; }
+    .aplayer .aplayer-pic .aplayer-button {
+      position: absolute;
+      border-radius: 50%;
+      opacity: 0.8;
+      cursor: pointer;
+      text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+      background: rgba(0, 0, 0, 0.2);
+      -webkit-transition: all 0.1s ease;
+      transition: all 0.1s ease; }
+      .aplayer .aplayer-pic .aplayer-button:hover {
+        opacity: 1; }
+      .aplayer .aplayer-pic .aplayer-button .aplayer-fill {
+        fill: #fff; }
+    .aplayer .aplayer-pic .aplayer-hide {
+      display: none; }
+    .aplayer .aplayer-pic .aplayer-play {
+      width: 26px;
+      height: 26px;
+      border: 2px solid #fff;
+      bottom: 50%;
+      right: 50%;
+      margin: 0 -15px -15px 0; }
+      .aplayer .aplayer-pic .aplayer-play .aplayer-icon-play {
+        position: absolute;
+        top: 3px;
+        left: 4px;
+        height: 20px;
+        width: 20px; }
+    .aplayer .aplayer-pic .aplayer-pause {
+      width: 16px;
+      height: 16px;
+      border: 2px solid #fff;
+      bottom: 4px;
+      right: 4px; }
+      .aplayer .aplayer-pic .aplayer-pause .aplayer-icon-pause {
+        position: absolute;
+        top: 2px;
+        left: 2px;
+        height: 12px;
+        width: 12px; }
+  .aplayer .aplayer-info {
+    margin-left: 66px;
+    padding: 14px 7px 0 10px;
+    height: 66px;
+    box-sizing: border-box; }
+    .aplayer .aplayer-info .aplayer-music {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      margin: 0 0 13px 5px;
+      -webkit-user-select: text;
+         -moz-user-select: text;
+          -ms-user-select: text;
+              user-select: text;
+      cursor: default;
+      padding-bottom: 2px; }
+      .aplayer .aplayer-info .aplayer-music .aplayer-title {
+        font-size: 14px; }
+      .aplayer .aplayer-info .aplayer-music .aplayer-author {
+        font-size: 12px;
+        color: #666; }
+    .aplayer .aplayer-info .aplayer-controller {
+      position: relative;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex; }
+      .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap {
+        margin: 0 0 0 5px;
+        padding: 4px 0;
+        cursor: pointer !important;
+        -webkit-box-flex: 1;
+            -ms-flex: 1;
+                flex: 1; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar {
+          position: relative;
+          height: 2px;
+          width: 100%;
+          background: #cdcdcd; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-loaded {
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            background: #aaa;
+            height: 2px;
+            -webkit-transition: all 0.5s ease;
+            transition: all 0.5s ease; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played {
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            height: 2px; }
+            .aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap .aplayer-bar .aplayer-played .aplayer-thumb {
+              position: absolute;
+              top: 0;
+              right: 5px;
+              margin-top: -4px;
+              margin-right: -10px;
+              height: 8px;
+              width: 8px;
+              border-radius: 50%;
+              background: #fff;
+              cursor: pointer !important; }
+      .aplayer .aplayer-info .aplayer-controller .aplayer-time {
+        position: relative;
+        right: 0;
+        bottom: 3px;
+        height: 17px;
+        color: #999;
+        font-size: 11px;
+        padding-left: 7px; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-time-inner {
+          vertical-align: middle; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon {
+          cursor: pointer;
+          -webkit-transition: all 0.2s ease;
+          transition: all 0.2s ease; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon .aplayer-fill {
+            fill: #666; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon.aplayer-icon-mode {
+            margin-right: 4px; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon:hover .aplayer-fill {
+            fill: #000; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon.aplayer-icon-menu {
+            display: none; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-time.aplayer-time-narrow .aplayer-icon-mode {
+          display: none; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-time.aplayer-time-narrow .aplayer-icon-menu {
+          display: none; }
+      .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap {
+        position: relative;
+        display: inline-block;
+        margin-left: 3px;
+        cursor: pointer !important; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap:hover .aplayer-volume-bar-wrap {
+          display: block; }
+        .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap {
+          display: none;
+          position: absolute;
+          bottom: 15px;
+          right: -3px;
+          width: 25px;
+          height: 40px;
+          z-index: 99; }
+          .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar {
+            position: absolute;
+            bottom: 0;
+            right: 10px;
+            width: 5px;
+            height: 35px;
+            background: #aaa; }
+            .aplayer .aplayer-info .aplayer-controller .aplayer-volume-wrap .aplayer-volume-bar-wrap .aplayer-volume-bar .aplayer-volume {
+              position: absolute;
+              bottom: 0;
+              right: 0;
+              width: 5px;
+              -webkit-transition: all 0.1s ease;
+              transition: all 0.1s ease; }
+  .aplayer .aplayer-lrc {
+    display: none;
+    position: relative;
+    height: 30px;
+    text-align: center;
+    overflow: hidden;
+    margin: -10px 0 7px; }
+    .aplayer .aplayer-lrc:before {
+      position: absolute;
+      top: 0;
+      z-index: 1;
+      display: block;
+      overflow: hidden;
+      width: 100%;
+      height: 10%;
+      content: ' ';
+      background: -webkit-linear-gradient(top, white 0%, rgba(255, 255, 255, 0) 100%);
+      background: linear-gradient(to bottom, white 0%, rgba(255, 255, 255, 0) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=0 ); }
+    .aplayer .aplayer-lrc:after {
+      position: absolute;
+      bottom: 0;
+      z-index: 1;
+      display: block;
+      overflow: hidden;
+      width: 100%;
+      height: 33%;
+      content: ' ';
+      background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 100%);
+      background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.8) 100%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ccffffff',GradientType=0 ); }
+    .aplayer .aplayer-lrc p {
+      font-size: 12px;
+      color: #666;
+      line-height: 16px !important;
+      height: 16px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      -webkit-transition: all 0.5s ease-out;
+      transition: all 0.5s ease-out;
+      opacity: 0.4;
+      overflow: hidden; }
+      .aplayer .aplayer-lrc p.aplayer-lrc-current {
+        opacity: 1;
+        overflow: visible;
+        height: initial !important; }
+    .aplayer .aplayer-lrc .aplayer-lrc-contents {
+      width: 100%;
+      -webkit-transition: all 0.5s ease-out;
+      transition: all 0.5s ease-out;
+      -webkit-user-select: text;
+         -moz-user-select: text;
+          -ms-user-select: text;
+              user-select: text;
+      cursor: default; }
+  .aplayer .aplayer-list {
+    overflow: auto;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    will-change: height;
+    display: none; }
+    .aplayer .aplayer-list.aplayer-list-hide {
+      height: 0 !important; }
+    .aplayer .aplayer-list::-webkit-scrollbar {
+      width: 5px; }
+    .aplayer .aplayer-list::-webkit-scrollbar-track {
+      background-color: #f9f9f9; }
+    .aplayer .aplayer-list::-webkit-scrollbar-thumb {
+      border-radius: 3px;
+      background-color: #eee; }
+    .aplayer .aplayer-list::-webkit-scrollbar-thumb:hover {
+      background-color: #ccc; }
+    .aplayer .aplayer-list ol {
+      list-style-type: none;
+      margin: 0;
+      padding: 0; }
+      .aplayer .aplayer-list ol li {
+        position: relative;
+        height: 32px;
+        line-height: 32px;
+        padding: 0 15px;
+        font-size: 12px;
+        border-top: 1px solid #e9e9e9;
+        cursor: pointer;
+        -webkit-transition: all 0.2s ease;
+        transition: all 0.2s ease;
+        overflow: hidden; }
+        .aplayer .aplayer-list ol li:first-child {
+          border-top: none; }
+        .aplayer .aplayer-list ol li:hover {
+          background: #efefef; }
+        .aplayer .aplayer-list ol li.aplayer-list-light {
+          background: #e9e9e9; }
+          .aplayer .aplayer-list ol li.aplayer-list-light .aplayer-list-cur {
+            display: inline-block; }
+        .aplayer .aplayer-list ol li .aplayer-list-cur {
+          display: none;
+          width: 3px;
+          height: 22px;
+          position: absolute;
+          left: 0;
+          top: 5px;
+          cursor: pointer; }
+        .aplayer .aplayer-list ol li .aplayer-list-index {
+          color: #666;
+          margin-right: 12px;
+          cursor: pointer; }
+        .aplayer .aplayer-list ol li .aplayer-list-author {
+          color: #666;
+          float: right;
+          cursor: pointer; }
+
+@-webkit-keyframes aplayer-roll {
+  0% {
+    left: 0; }
+  100% {
+    left: -100%; } }
+
+@keyframes aplayer-roll {
+  0% {
+    left: 0; }
+  100% {
+    left: -100%; } }
+</style></head>
+<body data-brackets-id='19'>
+	<!-- Preloader -->
+	<div data-brackets-id='20' id="preloaders" style="display: none;">
+		<div data-brackets-id='21' class="premix-table">
+			<div data-brackets-id='22' class="premix-table-cell">
+				<div data-brackets-id='23' class="bar-c">
+					<div data-brackets-id='24' id="bar-1" class="bar"></div>
+					<div data-brackets-id='25' id="bar-2" class="bar"></div>
+					<div data-brackets-id='26' id="bar-3" class="bar"></div>
+					<div data-brackets-id='27' id="bar-4" class="bar"></div>
+					<div data-brackets-id='28' id="bar-5" class="bar"></div>
+					<div data-brackets-id='29' id="bar-6" class="bar"></div>
+					<div data-brackets-id='30' id="bar-7" class="bar"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Premix Body Start -->
+	<!-- Premix Header Start -->
+	<div data-brackets-id='31' id="main_menu_fixed"></div>
+	<header data-brackets-id='32' class="premix-main-menu-area fixedMenu">
+		<div data-brackets-id='33' class="container">
+			<div data-brackets-id='34' class="row">
+				<div data-brackets-id='35' class="col-md-2 col-sm-3 col-xs-6">
+					<div data-brackets-id='36' class="logo">
+						<a data-brackets-id='37' href="index.html"><img data-brackets-id='38' src="img/logo.png" alt=""></a>
+					</div> <!-- .logo End -->
+				</div>
+				<div data-brackets-id='39' class="col-md-10 col-sm-9 col-xs-6 premix-menu-section">
+					<div data-brackets-id='40' class="premix-menu">
+						<ul data-brackets-id='41'>
+							<li data-brackets-id='42'><a data-brackets-id='43' href="#">HOME <i data-brackets-id='44' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='45'>
+									<li data-brackets-id='46'><a data-brackets-id='47' href="index.html">Slider Version</a></li>
+									<li data-brackets-id='48'><a data-brackets-id='49' href="video-banner.html">Video Banner Version</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='50'><a data-brackets-id='51' href="about.html">About</a></li>
+							<li data-brackets-id='52'><a data-brackets-id='53' href="#">EVENTS <i data-brackets-id='54' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='55'>
+									<li data-brackets-id='56'><a data-brackets-id='57' href="events.html">Events Page</a></li>
+									<li data-brackets-id='58'><a data-brackets-id='59' href="event-single.html">Event Single</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='60'><a data-brackets-id='61' href="#">ALBUMS <i data-brackets-id='62' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='63'>
+									<li data-brackets-id='64'><a data-brackets-id='65' href="albums.html">Albums Page</a></li>
+									<li data-brackets-id='66'><a data-brackets-id='67' href="album-single.html">Album Single</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='68'><a data-brackets-id='69' href="#">ARTISTS <i data-brackets-id='70' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='71'>
+									<li data-brackets-id='72'><a data-brackets-id='73' href="artists.html">Artists Page</a></li>
+									<li data-brackets-id='74'><a data-brackets-id='75' href="artist-single.html">Artist Single</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='76'><a data-brackets-id='77' href="gallery.html">GALLERY</a></li>
+							<li data-brackets-id='78'><a data-brackets-id='79' href="#">PAGE <i data-brackets-id='80' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='81'>
+									<li data-brackets-id='82'><a data-brackets-id='83' href="pricing-table.html">Pricing Table</a></li>
+									<li data-brackets-id='84'><a data-brackets-id='85' href="contact.html">Contact Us</a></li>
+									<li data-brackets-id='86'><a data-brackets-id='87' href="404.html">404 Page</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='88'><a data-brackets-id='89' href="#">SHOP <i data-brackets-id='90' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='91'>
+									<li data-brackets-id='92'><a data-brackets-id='93' href="shop.html">Shop Page</a></li>
+									<li data-brackets-id='94'><a data-brackets-id='95' href="shop-single.html">Shop Single</a></li>
+									<li data-brackets-id='96'><a data-brackets-id='97' href="cart.html">Cart</a></li>
+									<li data-brackets-id='98'><a data-brackets-id='99' href="cart-view.html">Cart View</a></li>
+									<li data-brackets-id='100'><a data-brackets-id='101' href="empty-cart.html">Empty Cart</a></li>
+									<li data-brackets-id='102'><a data-brackets-id='103' href="my-account.html">My Account</a></li>
+								</ul>
+							</li>
+							<li data-brackets-id='104'><a data-brackets-id='105' href="#">BLOG <i data-brackets-id='106' class="fa fa-angle-down"></i></a>
+								<ul data-brackets-id='107'>
+									<li data-brackets-id='108'><a data-brackets-id='109' href="blog.html">Blog Page</a></li>
+									<li data-brackets-id='110'><a data-brackets-id='111' href="blog-single.html">Blog Single</a></li>
+								</ul>
+							</li>
+						</ul>
+					</div> <!-- .premix-menu End -->
+					<div data-brackets-id='112' class="premix-menu premix-mobile-menu">
+						<div data-brackets-id='113' class="menu-collapser" style="display: none;"><div data-brackets-id='114' class="collapse-button"><span data-brackets-id='115' class="icon-bar"></span><span data-brackets-id='116' class="icon-bar"></span><span data-brackets-id='117' class="icon-bar"></span></div></div><ul data-brackets-id='118' class="slimmenu">
+							<li data-brackets-id='119' class="has-submenu"><a data-brackets-id='120' href="#">HOME </a>
+								<ul data-brackets-id='121' style="display: none;">
+									<li data-brackets-id='122'><a data-brackets-id='123' href="index.html">Slider Version</a></li>
+									<li data-brackets-id='124'><a data-brackets-id='125' href="video-banner.html">Video Banner Version</a></li>
+								</ul>
+							<span data-brackets-id='126' class="sub-toggle"><i data-brackets-id='127'>▼</i></span></li>
+							<li data-brackets-id='128'><a data-brackets-id='129' href="about.html">About</a></li>
+							<li data-brackets-id='130' class="has-submenu"><a data-brackets-id='131' href="#">EVENTS </a>
+								<ul data-brackets-id='132' style="display: none;">
+									<li data-brackets-id='133'><a data-brackets-id='134' href="events.html">Events Page</a></li>
+									<li data-brackets-id='135'><a data-brackets-id='136' href="event-single.html">Event Single</a></li>
+								</ul>
+							<span data-brackets-id='137' class="sub-toggle"><i data-brackets-id='138'>▼</i></span></li>
+							<li data-brackets-id='139' class="has-submenu"><a data-brackets-id='140' href="#">ALBUMS </a>
+								<ul data-brackets-id='141' style="display: none;">
+									<li data-brackets-id='142'><a data-brackets-id='143' href="albums.html">Albums Page</a></li>
+									<li data-brackets-id='144'><a data-brackets-id='145' href="album-single.html">Album Single</a></li>
+								</ul>
+							<span data-brackets-id='146' class="sub-toggle"><i data-brackets-id='147'>▼</i></span></li>
+							<li data-brackets-id='148' class="has-submenu"><a data-brackets-id='149' href="#">ARTISTS </a>
+								<ul data-brackets-id='150' style="display: none;">
+									<li data-brackets-id='151'><a data-brackets-id='152' href="artists.html">Artists Page</a></li>
+									<li data-brackets-id='153'><a data-brackets-id='154' href="artist-single.html">Artist Single</a></li>
+								</ul>
+							<span data-brackets-id='155' class="sub-toggle"><i data-brackets-id='156'>▼</i></span></li>
+							<li data-brackets-id='157'><a data-brackets-id='158' href="gallery.html">GALLERY</a></li>
+							<li data-brackets-id='159' class="has-submenu"><a data-brackets-id='160' href="#">PAGE </a>
+								<ul data-brackets-id='161' style="display: none;">
+									<li data-brackets-id='162'><a data-brackets-id='163' href="pricing-table.html">Pricing Table</a></li>
+									<li data-brackets-id='164'><a data-brackets-id='165' href="contact.html">Contact Us</a></li>
+									<li data-brackets-id='166'><a data-brackets-id='167' href="404.html">404 Page</a></li>
+								</ul>
+							<span data-brackets-id='168' class="sub-toggle"><i data-brackets-id='169'>▼</i></span></li>
+							<li data-brackets-id='170' class="has-submenu"><a data-brackets-id='171' href="#">SHOP </a>
+								<ul data-brackets-id='172' style="display: none;">
+									<li data-brackets-id='173'><a data-brackets-id='174' href="shop.html">Shop Page</a></li>
+									<li data-brackets-id='175'><a data-brackets-id='176' href="shop-single.html">Shop Single</a></li>
+									<li data-brackets-id='177'><a data-brackets-id='178' href="cart.html">Cart</a></li>
+									<li data-brackets-id='179'><a data-brackets-id='180' href="cart-view.html">Cart View</a></li>
+									<li data-brackets-id='181'><a data-brackets-id='182' href="empty-cart.html">Empty Cart</a></li>
+									<li data-brackets-id='183'><a data-brackets-id='184' href="my-account.html">My Account</a></li>
+								</ul>
+							<span data-brackets-id='185' class="sub-toggle"><i data-brackets-id='186'>▼</i></span></li>
+							<li data-brackets-id='187' class="has-submenu"><a data-brackets-id='188' href="#">BLOG </a>
+								<ul data-brackets-id='189' style="display: none;">
+									<li data-brackets-id='190'><a data-brackets-id='191' href="blog.html">Blog Page</a></li>
+									<li data-brackets-id='192'><a data-brackets-id='193' href="blog-single.html">Blog Single</a></li>
+								</ul>
+							<span data-brackets-id='194' class="sub-toggle"><i data-brackets-id='195'>▼</i></span></li>
+						</ul>
+					</div> <!-- .premix-menu End -->
+				</div>
+			</div>
+		</div>
+		<progress data-brackets-id='196' value="800" id="premix-progressBar" class="premix-single" max="1781">
+			<div data-brackets-id='197' class="premix-progress-container">
+				<span data-brackets-id='198' class="premix-progress-bar"></span>
+			</div>
+		</progress>
+	</header>
+	<!-- Premix Welcome Section Start -->
+	<section data-brackets-id='199' class="premix-welcome-section premix-innner-page" style="background-image: url(img/single-page-bg.png);">
+		<div data-brackets-id='200' class="container">
+			<div data-brackets-id='201' class="row">
+				<div data-brackets-id='202' class="col-md-12">
+					<div data-brackets-id='203' class="premix-welcome-element text-center">
+						<div data-brackets-id='204' class="premix-table">
+							<div data-brackets-id='205' class="premix-table-cell">
+								<h1 data-brackets-id='206'>Account</h1>
+								<p data-brackets-id='207'>HOME <span data-brackets-id='208'>/</span> Account</p>
+							</div>
+						</div>
+					</div><!-- .premix-welcome-element End -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Premix My Account Section -->
+	<section data-brackets-id='209' class="premix-my-account-section section-padding">
+		<div data-brackets-id='210' class="container">
+			<div data-brackets-id='211' class="premix-section-heading text-center premix-appeared">
+				<h2 data-brackets-id='212' data-titles="MY ACCOUNT">MY ACCOUNT</h2>
+			</div> <!-- .premix-section-heading End -->
+			<div data-brackets-id='213' class="row content-margin-top">
+				<div data-brackets-id='214' class="col-md-6 col-md-offset-3">
+					<div data-brackets-id='215' class="premix-contact-us-area">
+						<h4 data-brackets-id='216'>LOG IN</h4>
+						<form data-brackets-id='217' action="#">
+							<input data-brackets-id='218' type="text" name="name" placeholder="USERNAME OR EMAIL: *">
+							<input data-brackets-id='219' type="password" name="password" placeholder="PASSWORD: *">
+							<input data-brackets-id='220' type="submit" value="log in" name="log in">
+							<input data-brackets-id='221' type="checkbox" name="vehicle" value="remeber me">
+							<span data-brackets-id='222'>REMEMBER Me</span>
+							<a data-brackets-id='223' href="#">forgot password</a>
+						</form>
+					</div> <!-- .premix-contact-us-area END -->
+				</div>
+				<div data-brackets-id='224' class="col-md-6 col-md-offset-3">
+					<div data-brackets-id='225' class="premix-contact-us-area">
+						<h4 data-brackets-id='226'>register</h4>
+						<form data-brackets-id='227' action="#">
+							<input data-brackets-id='228' type="text" name="name" placeholder="EMAIL: *">
+							<input data-brackets-id='229' type="password" name="password" placeholder="PASSWORD: *">
+							<input data-brackets-id='230' type="submit" value="register" name="register">
+						</form>
+					</div> <!-- .premix-contact-us-area END -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Premix Footer Bottom Section Start -->
+	<section data-brackets-id='231' class="premix-footer-bottom-section premix-footer-bottom-bg">
+		<div data-brackets-id='232' class="container">
+			<div data-brackets-id='233' class="row">
+				<div data-brackets-id='234' class="col-md-4 col-sm-6">
+					<div data-brackets-id='235' class="premix-single-footer-bottom">
+						<h4 data-brackets-id='236'>About Us</h4>
+						<p data-brackets-id='237'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. </p>
+						<div data-brackets-id='238' class="premix-border"></div> <!-- .premix-border END -->
+						<div data-brackets-id='239' class="premix-social-list">
+							<ul data-brackets-id='240'>
+								<li data-brackets-id='241'><a data-brackets-id='242' href="#"><i data-brackets-id='243' class="fa fa-facebook"></i></a></li>
+								<li data-brackets-id='244'><a data-brackets-id='245' href="#"><i data-brackets-id='246' class="fa fa-twitter"></i></a></li>
+								<li data-brackets-id='247'><a data-brackets-id='248' href="#"><i data-brackets-id='249' class="fa fa-instagram "></i></a></li>
+								<li data-brackets-id='250'><a data-brackets-id='251' href="#"><i data-brackets-id='252' class="fa fa-whatsapp "></i></a></li>
+								<li data-brackets-id='253'><a data-brackets-id='254' href="#"><i data-brackets-id='255' class="fa fa-youtube-play"></i></a></li>
+							</ul>
+						</div> <!-- .premix-social-list END -->
+					</div> <!-- .premix-single-footer-bottom END -->
+				</div>
+				<div data-brackets-id='256' class="col-md-4 col-sm-6">
+					<div data-brackets-id='257' class="premix-single-footer-bottom premix-single-news">
+						<h4 data-brackets-id='258'>Recent News</h4>
+						<a data-brackets-id='259' href="" class="premix-single-recent-news">
+							<h5 data-brackets-id='260'>Holy fastival 2017, London</h5>
+							<p data-brackets-id='261'>20 April, 2017</p>
+						</a> <!-- .premix-single-recent-news END -->
+						<div data-brackets-id='262' class="premix-border"></div> <!-- .premix-border END -->
+						<a data-brackets-id='263' href="" class="premix-single-recent-news">
+							<h5 data-brackets-id='264'>Holy fastival 2017, London</h5>
+							<p data-brackets-id='265'>20 April, 2017</p>
+						</a> <!-- .premix-single-recent-news END -->
+						<div data-brackets-id='266' class="premix-border"></div> <!-- .premix-border END -->
+						<a data-brackets-id='267' href="" class="premix-single-recent-news">
+							<h5 data-brackets-id='268'>Holy fastival 2017, London</h5>
+							<p data-brackets-id='269'>20 April, 2017</p>
+						</a> <!-- .premix-single-recent-news END -->
+					</div> <!-- .premix-single-footer-bottom END -->
+				</div>
+				<div data-brackets-id='270' class="col-md-4 col-sm-12">
+					<div data-brackets-id='271' class="premix-single-footer-bottom">
+						<h4 data-brackets-id='272'>Photo Gallery</h4>
+						<div data-brackets-id='273' class="premix-image-gallery">
+							<ul data-brackets-id='274'>
+								<li data-brackets-id='275'><a data-brackets-id='276' href="#"><img data-brackets-id='277' src="img/gallery-img-1.png" alt=""></a></li>
+								<li data-brackets-id='278'><a data-brackets-id='279' href="#"><img data-brackets-id='280' src="img/gallery-img-2.png" alt=""></a></li>
+								<li data-brackets-id='281'><a data-brackets-id='282' href="#"><img data-brackets-id='283' src="img/gallery-img-3.png" alt=""></a></li>
+								<li data-brackets-id='284'><a data-brackets-id='285' href="#"><img data-brackets-id='286' src="img/gallery-img-4.png" alt=""></a></li>
+								<li data-brackets-id='287'><a data-brackets-id='288' href="#"><img data-brackets-id='289' src="img/gallery-img-5.png" alt=""></a></li>
+								<li data-brackets-id='290'><a data-brackets-id='291' href="#"><img data-brackets-id='292' src="img/gallery-img-6.png" alt=""></a></li>
+								<li data-brackets-id='293'><a data-brackets-id='294' href="#"><img data-brackets-id='295' src="img/gallery-img-7.png" alt=""></a></li>
+								<li data-brackets-id='296'><a data-brackets-id='297' href="#"><img data-brackets-id='298' src="img/gallery-img-8.png" alt=""></a></li>
+								<li data-brackets-id='299'><a data-brackets-id='300' href="#"><img data-brackets-id='301' src="img/gallery-img-9.png" alt=""></a></li>
+							</ul>
+						</div>
+					</div> <!-- .premix-single-footer-bottom END -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- Premix Footer -->
+	<footer data-brackets-id='302' class="premix-footer">
+		<div data-brackets-id='303' class="container">
+			<div data-brackets-id='304' class="row">
+				<div data-brackets-id='305' class="col-md-12 text-center">
+					<p data-brackets-id='306'>Copyright © 2017. All right reserved.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- Scripts -->
+	<script data-brackets-id='307' src="js/vendor/jquery-3.2.0.min.js"></script>
+	<script data-brackets-id='308' src="js/plugins.js"></script>
+	<script data-brackets-id='309' src="js/main.js"></script>
+
+</body></html>

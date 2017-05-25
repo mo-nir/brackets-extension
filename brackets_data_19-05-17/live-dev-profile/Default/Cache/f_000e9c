@@ -1,0 +1,539 @@
+<!doctype html>
+<html data-brackets-id='3604' class="no-js" lang="en">
+  <head data-brackets-id='3605'>
+    <!-- Meta Tags -->
+    <meta data-brackets-id='3606' charset="utf-8">
+    <meta data-brackets-id='3607' http-equiv="x-ua-compatible" content="ie=edge">
+    <meta data-brackets-id='3608' name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-brackets-id='3609' name="author" content="Pressionate">
+    <meta data-brackets-id='3610' name="description" content="">
+    <meta data-brackets-id='3611' name="keywords" content="">
+    <!-- Page Title -->
+    <title data-brackets-id='3612'>Presley - Creative Portfolio HTML Template</title>
+    <!-- Favicon and Apple Touch Icon -->
+    <link data-brackets-id='3613' rel="icon" href="img/favicon.png">
+    <link data-brackets-id='3614' rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Google Fonts -->
+    <link data-brackets-id='3615' href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link data-brackets-id='3616' href="css/plugins.css" rel="stylesheet">
+    <link data-brackets-id='3617' href="css/responsive.css" rel="stylesheet">
+    <link data-brackets-id='3618' href="css/style.css" rel="stylesheet">
+    <link data-brackets-id='3619' rel="stylesheet" href="css/custom.css">
+</head>
+
+<body data-brackets-id='3620'>
+    <!-- header -->
+    <header data-brackets-id='3621' class="header">
+        <!-- navbar -->
+        <nav data-brackets-id='3622' id="mainNav" class="navbar navbar-default navbar-fixed-top custom-nav animated fadeInUp visible">
+            <div data-brackets-id='3623' class="container">
+                <!-- toggle menu -->
+                <div data-brackets-id='3624' class="navbar-header">
+                    <button data-brackets-id='3625' type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span data-brackets-id='3626' class="sr-only">Toggle navigation</span><i data-brackets-id='3627' class="fa fa-bars"></i>
+                    </button>
+                    <a data-brackets-id='3628' class="navbar-brand" href="index.html">PRESLEY</a>
+                </div>
+
+                <!-- navbar links -->
+                <div data-brackets-id='3629' class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul data-brackets-id='3630' class="nav navbar-nav pull-right mobile-responsive">
+                        <li data-brackets-id='3631' class="dropdown animated transform-custom-ms fadeInDown visible">
+                            <a data-brackets-id='3632' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Home</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='3633' class="dropdown-menu">
+                                <li data-brackets-id='3634'><a data-brackets-id='3635' href="index.html">Home - 1</a></li>
+                                <li data-brackets-id='3636'><a data-brackets-id='3637' href="home-2.html">Home - 2</a></li>
+                                <li data-brackets-id='3638'><a data-brackets-id='3639' href="home-3.html">Home - 3</a></li>
+                                <li data-brackets-id='3640'><a data-brackets-id='3641' href="home-4.html">Home - 4</a></li>
+                                <li data-brackets-id='3642'><a data-brackets-id='3643' href="home-5.html">Home - 5</a></li>
+                                <li data-brackets-id='3644'><a data-brackets-id='3645' href="home-6.html">Home - 6</a></li>
+                                <li data-brackets-id='3646'><a data-brackets-id='3647' href="home-7.html">Home - 7</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='3648' class="active">
+                            <a data-brackets-id='3649' href="about.html">About</a>
+                        </li>
+                        <li data-brackets-id='3650'>
+                            <a data-brackets-id='3651' href="service.html">Services</a>
+                        </li>
+                        <li data-brackets-id='3652' class="dropdown">
+                            <a data-brackets-id='3653' href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='3654' class="dropdown-menu">
+                                <li data-brackets-id='3655'><a data-brackets-id='3656' href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                                <li data-brackets-id='3657'><a data-brackets-id='3658' href="portfolio-even-grid.html">Portfolio Even Grid</a></li>
+                                <li data-brackets-id='3659'><a data-brackets-id='3660' href="portfolio-single.html">Portfolio Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='3661' class="dropdown">
+                            <a data-brackets-id='3662' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Blog</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='3663' class="dropdown-menu">
+                                <li data-brackets-id='3664'><a data-brackets-id='3665' href="blog.html">Blog Grid</a></li>
+                                <li data-brackets-id='3666'><a data-brackets-id='3667' href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='3668'>
+                            <a data-brackets-id='3669' href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+    </header>
+    <!-- end header -->
+
+    <!-- page title -->
+    <div data-brackets-id='3670' class="page-title">
+		<div data-brackets-id='3671' class="overlay"></div>
+        <nav data-brackets-id='3672' class="text-center animated fadeInUp visible">
+            <h3 data-brackets-id='3673'>HELLO, WELCOME TO JAZZ</h3>
+            <a data-brackets-id='3674' class="breadcrumb-item" href="index.html">HOME // </a>
+            <span data-brackets-id='3675' class="breadcrumb-item active"> ABOUT US</span>
+        </nav>
+    </div>
+    <!-- page title -->
+
+    <!-- about section -->
+    <section data-brackets-id='3676' id="about-section" class="about-section">
+        <!-- custom -->
+        <div data-brackets-id='3677' class="container">
+
+            <div data-brackets-id='3678' class="text-center">
+                <div data-brackets-id='3679' class="about-content">
+                    <div data-brackets-id='3680' class="title-heading pad-bottom-40 animated fadeInUp visible">
+                        <h3 data-brackets-id='3681'>ABOUT US</h3>
+                        <h5 data-brackets-id='3682'>WE TRY TO PROVIDE BEST SERVICE</h5>
+                    </div>
+                    <p data-brackets-id='3683'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. </p>
+                </div>
+            </div>
+
+            <!-- row -->
+            <div data-brackets-id='3684' class="row about-row">
+                <!-- col-md-6 -->
+                <div data-brackets-id='3685' class="col-md-6 animated fadeInLeft visible">
+                    <div data-brackets-id='3686' class="about-img pad-bottom-20">
+                        <img data-brackets-id='3687' src="img/about-page.jpg" class="img-responsive" alt="" title="" width="555" height="359">
+                    </div>
+                </div>
+                <!--end col-md-6 -->
+
+                <!-- col-md-6 -->
+                <div data-brackets-id='3688' class="col-md-6 what-we-do animated fadeInRight visible">
+                    <h3 data-brackets-id='3689'>WHAT WE DO?</h3>
+                    <div data-brackets-id='3690' class="row">
+                        <!-- COL 6 -->
+                        <div data-brackets-id='3691' class="col-md-6 we-do">
+                            <div data-brackets-id='3692' class="work-header">
+                                <i data-brackets-id='3693' class="icon-circle-compass"></i>
+                                <h4 data-brackets-id='3694'>DESIGN</h4>
+                            </div>
+                            <div data-brackets-id='3695' class="we-do-content pad-top-15">
+                                <p data-brackets-id='3696'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        </div>
+                        <!-- END COL 6 -->
+                        <!-- COL 6 -->
+                        <div data-brackets-id='3697' class="col-md-6 we-do">
+                            <div data-brackets-id='3698' class="work-header">
+                                <i data-brackets-id='3699' class="icon-desktop"></i>
+                                <h4 data-brackets-id='3700'>DEVELOPMENT</h4>
+                            </div>
+                            <!-- end heading -->
+                            <div data-brackets-id='3701' class="we-do-content pad-top-15">
+                                <p data-brackets-id='3702'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        </div>
+                        <!-- END COL 6 -->
+                        <!-- COL 6 -->
+                        <div data-brackets-id='3703' class="col-md-6 we-do">
+                            <div data-brackets-id='3704' class="work-header">
+                                <i data-brackets-id='3705' class="icon-basic_anchor"></i>
+                                <h4 data-brackets-id='3706'>UNLIMITED FEATURES</h4>
+                            </div>
+                            <div data-brackets-id='3707' class="we-do-content pad-top-15">
+                                <p data-brackets-id='3708'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        </div>
+                        <!-- END COL 6 -->
+                        <!-- COL 6 -->
+                        <div data-brackets-id='3709' class="col-md-6 we-do">
+                            <div data-brackets-id='3710' class="work-header">
+                                <i data-brackets-id='3711' class="icon-document"></i>
+                                <h4 data-brackets-id='3712'>FRIENDLY SUPPORT</h4>
+                            </div>
+                            <div data-brackets-id='3713' class="we-do-content pad-top-15">
+                                <p data-brackets-id='3714'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        </div>
+                        <!-- END COL 6 -->
+                    </div>
+                </div>
+                <!--end col-md-6 -->
+
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- end about section -->
+
+    <!-- counter section -->
+    <section data-brackets-id='3715' id="counter" class="counter">
+        <div data-brackets-id='3716' class="container">
+            <div data-brackets-id='3717' class="row">
+                <!-- custom counter -->
+                <div data-brackets-id='3718' class="col-md-3 counter-grid animated fadeInLeft visible">
+                    <div data-brackets-id='3719' class="count-inner dark text-center white">
+                        <i data-brackets-id='3720' class="icon-briefcase2"></i>
+                        <div data-brackets-id='3721' class="count-num">
+                            <div data-brackets-id='3722' class="count">500</div>
+                            <h4 data-brackets-id='3723' class="white">PROJECT DONE</h4>
+                        </div>
+                    </div>
+                </div>
+                <div data-brackets-id='3724' class="col-md-3 counter-grid animated fadeInUp visible">
+                    <div data-brackets-id='3725' class="count-inner dark text-center white">
+                        <i data-brackets-id='3726' class="icon-user"></i>
+                        <div data-brackets-id='3727' class="count-num">
+                            <div data-brackets-id='3728' class="count">100</div>
+                            <h4 data-brackets-id='3729' class="white">HAPPY CLIENTS</h4>
+                        </div>
+                    </div>
+                </div>
+                <div data-brackets-id='3730' class="col-md-3 counter-grid animated fadeInDown visible">
+                    <div data-brackets-id='3731' class="count-inner dark text-center white">
+                        <i data-brackets-id='3732' class="icon-hourglass"></i>
+                        <div data-brackets-id='3733' class="count-num">
+                            <div data-brackets-id='3734' class="count">1000</div>
+                            <h4 data-brackets-id='3735' class="white">HOURS WORK</h4>
+                        </div>
+                    </div>
+                </div>
+                <div data-brackets-id='3736' class="col-md-3 counter-grid animated fadeInRight visible">
+                    <div data-brackets-id='3737' class="count-inner dark text-center white">
+                        <i data-brackets-id='3738' class="icon-trophy"></i>
+                        <div data-brackets-id='3739' class="count-num">
+                            <div data-brackets-id='3740' class="count">100</div>
+                            <h4 data-brackets-id='3741' class="white">AWARDS</h4>
+                        </div>
+                    </div>
+                </div>
+                <!-- end custom counter -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- end counter section -->
+
+    <!-- team -->
+    <!-- FEATURED SECTION -->
+    <section data-brackets-id='3742' class="team animated fadeInUp visible">
+        <!-- CONTAINER -->
+        <div data-brackets-id='3743' class="container">
+            <div data-brackets-id='3744' class="text-center pad-bottom-40">
+                <h3 data-brackets-id='3745'>OUR TEAM</h3>
+                <h5 data-brackets-id='3746'>OUR AWESOME TEAM MEMBERS</h5>
+            </div>
+            <div data-brackets-id='3747' class="row">
+                <div data-brackets-id='3748' class="col-md-12 team-members">
+                    <!-- CAROUSEL -->
+                    <div data-brackets-id='3749' class="owl-carousel" data-items="1" data-margin="40" data-loop="true" data-merge="true" data-nav="false" data-dots="false" data-stagepadding="" data-mobile="1" data-tablet="2" data-desktopsmall="3" data-desktop="3" data-autoplay="true" data-delay="4000">
+
+                        <!-- ITEM -->
+                        <div data-brackets-id='3750' class="item custom-item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3751' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3752' class="wrapper-scale-in img-responsive" src="img/team/1.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3753' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3754' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3755'><a data-brackets-id='3756' href="#"><i data-brackets-id='3757' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3758'><a data-brackets-id='3759' href="#"><i data-brackets-id='3760' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3761'><a data-brackets-id='3762' href="#"><i data-brackets-id='3763' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3764'><a data-brackets-id='3765' href="#"><i data-brackets-id='3766' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3767'><a data-brackets-id='3768' href="#"><i data-brackets-id='3769' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3770' class="team-member text-center">
+                                <h4 data-brackets-id='3771'>Michel Austin</h4>
+                                <h5 data-brackets-id='3772'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div data-brackets-id='3773' class="item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3774' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3775' class="wrapper-scale-in img-responsive" src="img/team/2.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3776' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3777' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3778'><a data-brackets-id='3779' href="#"><i data-brackets-id='3780' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3781'><a data-brackets-id='3782' href="#"><i data-brackets-id='3783' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3784'><a data-brackets-id='3785' href="#"><i data-brackets-id='3786' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3787'><a data-brackets-id='3788' href="#"><i data-brackets-id='3789' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3790'><a data-brackets-id='3791' href="#"><i data-brackets-id='3792' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3793' class="team-member text-center">
+                                <h4 data-brackets-id='3794'>Michel Austin</h4>
+                                <h5 data-brackets-id='3795'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div data-brackets-id='3796' class="item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3797' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3798' class="wrapper-scale-in img-responsive" src="img/team/3.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3799' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3800' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3801'><a data-brackets-id='3802' href="#"><i data-brackets-id='3803' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3804'><a data-brackets-id='3805' href="#"><i data-brackets-id='3806' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3807'><a data-brackets-id='3808' href="#"><i data-brackets-id='3809' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3810'><a data-brackets-id='3811' href="#"><i data-brackets-id='3812' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3813'><a data-brackets-id='3814' href="#"><i data-brackets-id='3815' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3816' class="team-member text-center">
+                                <h4 data-brackets-id='3817'>Michel Austin</h4>
+                                <h5 data-brackets-id='3818'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div data-brackets-id='3819' class="item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3820' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3821' class="wrapper-scale-in img-responsive" src="img/team/4.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3822' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3823' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3824'><a data-brackets-id='3825' href="#"><i data-brackets-id='3826' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3827'><a data-brackets-id='3828' href="#"><i data-brackets-id='3829' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3830'><a data-brackets-id='3831' href="#"><i data-brackets-id='3832' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3833'><a data-brackets-id='3834' href="#"><i data-brackets-id='3835' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3836'><a data-brackets-id='3837' href="#"><i data-brackets-id='3838' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3839' class="team-member text-center">
+                                <h4 data-brackets-id='3840'>Michel Austin</h4>
+                                <h5 data-brackets-id='3841'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+                        <!-- ITEM -->
+                        <div data-brackets-id='3842' class="item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3843' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3844' class="wrapper-scale-in img-responsive" src="img/team/5.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3845' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3846' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3847'><a data-brackets-id='3848' href="#"><i data-brackets-id='3849' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3850'><a data-brackets-id='3851' href="#"><i data-brackets-id='3852' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3853'><a data-brackets-id='3854' href="#"><i data-brackets-id='3855' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3856'><a data-brackets-id='3857' href="#"><i data-brackets-id='3858' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3859'><a data-brackets-id='3860' href="#"><i data-brackets-id='3861' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3862' class="team-member text-center">
+                                <h4 data-brackets-id='3863'>Michel Austin</h4>
+                                <h5 data-brackets-id='3864'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+                        <!-- ITEM -->
+                        <div data-brackets-id='3865' class="item">
+                            <!-- img wrapper -->
+                            <div data-brackets-id='3866' class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img data-brackets-id='3867' class="wrapper-scale-in img-responsive" src="img/team/6.jpg" alt="" title="team-img" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div data-brackets-id='3868' class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div data-brackets-id='3869' class="img-desc slide-icons animated transform-custom-ms zoomIn visible text-center">
+                                        <!-- social icons-->
+                                        <span data-brackets-id='3870'><a data-brackets-id='3871' href="#"><i data-brackets-id='3872' class="fa fa-facebook"></i></a></span>
+                                        <span data-brackets-id='3873'><a data-brackets-id='3874' href="#"><i data-brackets-id='3875' class="fa fa-twitter"></i></a></span>
+                                        <span data-brackets-id='3876'><a data-brackets-id='3877' href="#"><i data-brackets-id='3878' class="fa fa-dribbble"></i></a></span>
+                                        <span data-brackets-id='3879'><a data-brackets-id='3880' href="#"><i data-brackets-id='3881' class="fa fa-instagram"></i></a></span>
+                                        <span data-brackets-id='3882'><a data-brackets-id='3883' href="#"><i data-brackets-id='3884' class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div data-brackets-id='3885' class="team-member text-center">
+                                <h4 data-brackets-id='3886'>Michel Austin</h4>
+                                <h5 data-brackets-id='3887'>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FEATURED SECTION -->
+    <!-- end team -->
+
+    <!-- client section -->
+    <section data-brackets-id='3888' class="client-section" id="client-section">
+
+        <div data-brackets-id='3889' id="clients" class="animated fadeInLeft visible">
+            <div data-brackets-id='3890' class="container">
+                <!-- heading -->
+                <div data-brackets-id='3891' class="title-heading text-center pad-bottom-40">
+                    <h3 data-brackets-id='3892'>HAPPY CLIENT</h3>
+                    <h5 data-brackets-id='3893'>THEY GIVE UP THEIR FEEDBACK</h5>
+                </div>
+                <!-- end heading -->
+                <div data-brackets-id='3894' class="col-md-12">
+                    <!-- CAROUSEL -->
+                    <div data-brackets-id='3895' class="owl-carousel nav-bottom top-bullet dots-dark dots-mini" data-items="2" data-margin="40" data-loop="true" data-merge="true" data-nav="false" data-dots="false" data-stagepadding="" data-mobile="3" data-tablet="4" data-desktopsmall="5" data-desktop="6" data-autoplay="true" data-delay="4000">
+                        <div data-brackets-id='3896' class="item"><img data-brackets-id='3897' src="img/clients/1.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3898' class="item"><img data-brackets-id='3899' src="img/clients/2.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3900' class="item"><img data-brackets-id='3901' src="img/clients/3.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3902' class="item"><img data-brackets-id='3903' src="img/clients/4.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3904' class="item"><img data-brackets-id='3905' src="img/clients/5.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3906' class="item"><img data-brackets-id='3907' src="img/clients/6.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3908' class="item"><img data-brackets-id='3909' src="img/clients/7.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3910' class="item"><img data-brackets-id='3911' src="img/clients/8.png" alt="" class="img-responsive" width="200" height="150"></div>
+
+                        <div data-brackets-id='3912' class="item"><img data-brackets-id='3913' src="img/clients/9.png" alt="" class="img-responsive" width="200" height="150"></div>
+                        
+                        <div data-brackets-id='3914' class="item"><img data-brackets-id='3915' src="img/clients/10.png" alt="" class="img-responsive" width="200" height="150"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- client section -->
+    <!-- instagram section -->
+
+        <!-- testimonial -->
+    <section data-brackets-id='3916' class="testimonial-white-bg">
+        <div data-brackets-id='3917' class="container">
+        	<div data-brackets-id='3918' class="title-heading text-center pad-bottom-40">
+                <h3 data-brackets-id='3919'>INSTAGRAM FEEDS</h3>
+                 <h5 data-brackets-id='3920'>YOU CAN FOLLOW US ON INSTAGRAM</h5>
+            </div>
+        	<div data-brackets-id='3921' class="instagram">
+				<a data-brackets-id='3922' href="img/instagram/01.jpg" data-source="http://500px.com/photo/32736307" title="">
+					<img data-brackets-id='3923' src="img/instagram/01.jpg">
+				</a>
+				<a data-brackets-id='3924' href="img/instagram/02.jpg" data-source="http://500px.com/photo/32736307" title="">
+					<img data-brackets-id='3925' src="img/instagram/02.jpg">
+				</a>
+				<a data-brackets-id='3926' href="img/instagram/03.jpg" data-source="http://500px.com/photo/32736307" title="">
+					<img data-brackets-id='3927' src="img/instagram/03.jpg">
+				</a>
+				<a data-brackets-id='3928' href="img/instagram/04.jpg" data-source="http://500px.com/photo/32736307" title="">
+					<img data-brackets-id='3929' src="img/instagram/04.jpg">
+				</a>
+				<a data-brackets-id='3930' href="img/instagram/05.jpg" data-source="http://500px.com/photo/32736307" title="">
+					<img data-brackets-id='3931' src="img/instagram/05.jpg">
+				</a>
+        	</div>
+        </div>
+    </section>
+    <!-- end testimonial -->
+
+    <!-- Back to Top -->
+    <a data-brackets-id='3932' href="#" id="back-to-top" title="Back to top" class="show"></a>
+
+    <!-- Start Footer -->
+    <footer data-brackets-id='3933' class="custom-footer">
+        <div data-brackets-id='3934' class="container">
+            <div data-brackets-id='3935' class="copyright">
+                <p data-brackets-id='3936'>Copyright &copy; 2017 PRESLEY. All Rights Reserved. Designed by <a data-brackets-id='3937' href="http://pressionate.com" target="_blank">Pressionate</a>.</p>
+            </div>
+            <ul data-brackets-id='3938' class="list-inline f-social pad-top-20">
+                <li data-brackets-id='3939'>
+                    <a data-brackets-id='3940' href="#"><i data-brackets-id='3941' class="fa fa-facebook"></i>Facebook</a>
+                </li>
+                <li data-brackets-id='3942'>
+                    <a data-brackets-id='3943' href="#"><i data-brackets-id='3944' class="fa fa-twitter"></i>Twitter</a>
+                </li>
+                <li data-brackets-id='3945'>
+                    <a data-brackets-id='3946' href="#"><i data-brackets-id='3947' class="fa fa-dribbble"></i>Dribbble</a>
+                </li>
+                <li data-brackets-id='3948'>
+                    <a data-brackets-id='3949' href="#"><i data-brackets-id='3950' class="fa fa-instagram"></i>Instagram</a>
+                </li>
+                <li data-brackets-id='3951'>
+                    <a data-brackets-id='3952' href="#"><i data-brackets-id='3953' class="fa fa-google-plus"></i>Google+</a>
+                </li>
+                <li data-brackets-id='3954'>
+                    <a data-brackets-id='3955' href="#"><i data-brackets-id='3956' class="fa fa-linkedin"></i>Linkedin</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script data-brackets-id='3957' src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script data-brackets-id='3958' src="js/plugins.js"></script>
+    <script data-brackets-id='3959' src="js/portfolio.js"></script>
+    <script data-brackets-id='3960' src="js/main.js"></script>
+
+</body>
+</html>

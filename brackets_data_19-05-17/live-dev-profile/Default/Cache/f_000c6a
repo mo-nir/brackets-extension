@@ -1,0 +1,1203 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from onex.themebucket.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 14 Apr 2017 09:57:02 GMT -->
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <!--Styles-->
+    <link href="css/royal_preloader.css" type="text/css" rel="stylesheet">
+    <link href="css/bootstrap.css" type="text/css" rel="stylesheet">
+    <link href="css/et-line-icon.css" type="text/css" rel="stylesheet">
+    <link href="css/font-awesome.css" type="text/css" rel="stylesheet">
+    <link href="css/owl.theme.css" type="text/css" rel="stylesheet">
+    <link href="css/owl.carousel.css" type="text/css" rel="stylesheet">
+    <link href="css/navigation.css" type="text/css" rel="stylesheet">
+    <link href="css/jquery.mmenu.all.css" type="text/css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/theme-color.css" type="text/css" rel="stylesheet">
+    <link href="css/styles.css" type="text/css" rel="stylesheet">
+    <link href="css/style-responsive.css" type="text/css" rel="stylesheet">
+
+
+</head>
+
+<body class="royal_preloader">
+<div id="royal_preloader"></div>
+
+    <!--header start-->
+    <header class="top-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                    <a href="#" class="logo"><img src="img/onex-logo.png" alt="oneX Logo"></a>
+                    <a href="#" class="retina-logo"><img src="img/onex-logo%402x.png" alt="OneX Logo"></a>
+                </div>
+                <div class="col-md-10">
+                    <nav class="mobile-nav" id="m-menu">
+                        <ul>
+                            <li class="current"><a href="#home">Home</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#team">Team</a></li>
+                            <li><a href="#portfolio">Portfolio</a></li>
+                            <li><a href="#testimonial">Testimonial</a></li>
+                            <li><a href="#blog">Blog</a>
+                                <ul>
+                                    <li><a class="external" href="blog_list.html">Blog Listing</a></li>
+                                    <li><a class="external" href="blog_details.html">blog Details</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#price">Price Table</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                    <nav class="navigation top-nav" id="main-nav">
+                        <ul class="sf-menu">
+                            <li class="current"><a href="#home">Home</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#team">Team</a></li>
+                            <li><a href="#portfolio">Portfolio</a></li>
+                            <li><a href="#testimonial">Testimonial</a></li>
+                            <li><a href="#blog">Blog</a>
+                                <ul>
+                                    <li><a class="external" href="blog_list.html">Blog Listing</a></li>
+                                    <li><a class="external" href="blog_details.html">Blog Details</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#price">Price Table</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!--header end-->
+
+
+    <section class="page-container">
+
+        <!--mobile header start-->
+        <div class="mobile-header">
+            <a href="#m-menu" class="left-toggle"><i class="fa fa-bars"></i></a>
+
+            <a href="#" class="logo"><img src="img/onex-logo.png" alt="oneX Logo"></a>
+            <a href="#" class="retina-logo"><img src="img/onex-logo%402x.png" alt="OneX Logo"></a>
+
+        </div>
+        <!--mobile header end-->
+
+        <!--rotate text banner start-->
+        <section class="banner-container banner-parallax overlay-background" id="home">
+            <div class="overlay-block-light"> </div>
+
+            <div class="banner-content container">
+                <div class="banner-text light-txt">
+                    <h1>
+                        We believe in quality
+                    </h1>
+
+                    <h2>
+                        <span class="rotate">Onex Creative Theme, Professional Code is core power, Easy to Customize, 100% responsive design</span>
+                    </h2>
+
+                    <div class="ban-btn m-top-50">
+                        <a href="#" class="btn-bordered">Discover now</a>
+                        <a href="#" class="btn-bordered">purchase Onex</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        <!--rotate text banner end-->
+
+        <!--section start-->
+        <section id="start">
+            <section class="section-wrapper start-section ">
+                <div class="container">
+                    <div class="header-section align-center">
+                        <h2 class="section-heading ">we are onex</h2>
+                        <span class="section-sub-heading">We are really good at the following technical skills</span>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="rotate-boxed-intro wow fadeInLeft">
+                                <a href="#" class="icon-box">
+                                    <span class="icon">
+                                        <i class="icon-mobile"></i>
+                                    </span>
+                                </a>
+
+                                <div class="desk">
+                                    <h4>Responsive Design</h4>
+                                    <p>
+                                        Maecenas volutpat, diam enim sagittis quam, id porta quam. Sed id dolor
+                                        consectetur fermentum volutpat nibh, accumsan purus.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="rotate-boxed-intro  wow fadeInUp">
+                                <a href="#" class="icon-box">
+                                <span class="icon">
+                                    <i class=" icon-linegraph"></i>
+                                </span>
+                                </a>
+                                <div class="desk">
+                                    <h4>Quality Code</h4>
+                                    <p>
+                                        Diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum volutpat nibh, accumsan purus.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="rotate-boxed-intro  wow fadeInRight">
+                                <a href="#" class="icon-box">
+                                <span class="icon">
+                                    <i class="icon-layers"></i>
+                                </span>
+                                </a>
+                                <div class="desk">
+                                    <h4>Easy Admin Ever</h4>
+                                    <p>
+                                        Volutpat diam enim sagittis quam, id porta quam. Sed id dolor consectetur fermentum volutpat nibh, accumsan purus.
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--section end-->
+
+        <!--about section start-->
+        <section id="about">
+            <section class="section-wrapper about-section bottom-padding-less">
+                <div class="container">
+                    <div class="header-section align-center">
+                        <h2 class="section-heading ">About Us</h2>
+                        <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                    </div>
+                    <div class="about-text">
+                        <p>
+                            Praesent nec ipsum id velit rhoncus commodo eget sed risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pellentesque commodo neque, vitae pharetra odio tempor vitae. Mauris mi magna, blandit in vehicula accumsan, facilisis ac velit. Sed venenatis egestas ante a pellentesque. Praesent ultrices tellus dolor.
+                        </p>
+                    </div>
+                    <div class="section-image  wow fadeInUp">
+                        <span class="img-mid"><img src="img/feature_image.png" alt="about us"></span>
+                    </div>
+                </div>
+            </section>
+
+            <section class="numeric-factor  overlay-background section-wrapper">
+                <div class="overlay-block">
+
+                </div>
+                <div class="container">
+                    <p class="numeric-factor-h">
+                        We have some numaric Factors That inspire us always.
+                    </p>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="stats-block">
+                                <span class="numeric-value number-animate" data-value="12" data-animation-duration="1000">0</span>
+                                <span class="factor-title">Year Experiences</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="stats-block">
+                                <span class="numeric-value number-animate" data-value="32" data-animation-duration="1000">0</span>
+                                <span class="factor-title">tallents</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="stats-block">
+                                <span class="numeric-value number-animate" data-value="23678" data-animation-duration="1500">0</span>
+                                <span class="factor-title">Happy Clients</span>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="stats-block">
+                                <span class="numeric-value number-animate" data-value="240" data-animation-duration="1500">0</span>
+                                <span class="factor-title">Projects Done</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--about section end-->
+
+        <!--service section start-->
+        <section id="services">
+            <section class="section-wrapper services-section ">
+                <div class="container">
+
+                    <div class="header-section align-center">
+                        <h2 class="section-heading ">Services</h2>
+                        <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="services-img  wow fadeInLeft">
+                                <img src="img/service-img.png" alt="services">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="item-lists">
+                                <div class="iconic-item clearfix  wow fadeInRight">
+                                    <span class="iconic-item-icon">
+                                        <i class="icon-linegraph"></i>
+                                    </span>
+                                    <h4>html5 / css3 </h4>
+                                    <p>
+                                        Integer egestas augue nibh, id hendrerit sem porta at. Duis quis nunc eros. Donec ullamcorper quis lacus pretium vestibulum.
+                                    </p>
+                                </div>
+                                <div class="iconic-item clearfix wow fadeInRight">
+                                    <span class="iconic-item-icon">
+                                        <i class="icon-hotairballoon"></i>
+                                    </span>
+                                    <h4>Bootstrap 3 based </h4>
+                                    <p>
+                                        Integer egestas augue nibh, id hendrerit sem porta at. Duis quis nunc eros. Donec ullamcorper quis lacus pretium vestibulum.
+                                    </p>
+                                </div>
+                                <div class="iconic-item clearfix wow fadeInRight">
+                                    <span class="iconic-item-icon">
+                                        <i class="icon-flag"></i>
+                                    </span>
+                                    <h4> Responsive Design </h4>
+                                    <p>
+                                        Integer egestas augue nibh, id hendrerit sem porta at. Duis quis nunc eros. Donec ullamcorper quis lacus pretium vestibulum.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--service section end-->
+
+        <!--parallax section start-->
+        <section class="f-parallax-img overlay-background">
+            <div class="overlay-block"> </div>
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-4">
+                        <div class="f-title ">
+                            <h2 class="light-txt">Special Product <br/>Offer</h2>
+                        </div>
+                        <p class="f-p-txt light-txt">Praesent pharetra, justo ut scelerisque mattis,
+                            leo quam aliquet diam Praesent pharetra, scelerisque
+                            mattis, leo quam aliquet diam , justo ut scelerisque mattis,
+                            leo quam aliquet diam justo ut scelerisque mattis, leo
+                            quam aliquet diam </p>
+                        <a href="#" class="btn-bordered m-bot-30">Get it now</a>
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="feature-img text-right wow fadeInRight">
+                            <img src="img/f-img-4.png" alt=""/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--parallax section end-->
+
+        <!--team section start-->
+        <section id="team">
+            <section class="section-wrapper team-section bottom-padding-less">
+                <div class="container">
+                    <div class="header-section align-center">
+                        <h2 class="section-heading ">Meet our team</h2>
+                        <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="team-member-container wow fadeInLeft">
+                                <div class="team-member">
+                                    <img src="img/team/team1.jpg" alt="Team Member">
+                                </div>
+                                <div class="team-member-info ">
+                                    <h4>Jonathan Smith</h4>
+                                    <span class="team-member-position">Project Manager</span>
+                                    <ul class="member-social-icon clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-envelope-o"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="team-member-container wow fadeInUp">
+                                <div class="team-member">
+                                    <img src="img/team/team2.jpg" alt="Team Member">
+                                </div>
+                                <div class="team-member-info ">
+                                    <h4>Margarita Rose</h4>
+                                    <span class="team-member-position">Software Engineer</span>
+                                    <ul class="member-social-icon clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-envelope-o"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="team-member-container wow fadeInRight">
+                                <div class="team-member">
+                                    <img src="img/team/team3.jpg" alt="Team Member">
+                                </div>
+                                <div class="team-member-info ">
+                                    <h4>John Doe</h4>
+                                    <span class="team-member-position">Creative Director</span>
+                                    <ul class="member-social-icon clearfix">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-envelope-o"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--team section end-->
+
+        <!--portfolio section start-->
+        <section id="portfolio">
+            <section class="section-wrapper portfolio-section bottom-padding-less">
+                <div class="header-section align-center">
+                    <h2 class="section-heading ">Our Portfolio</h2>
+                    <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                </div>
+                <div class="text-center">
+                    <ul class="portfolio-filter">
+                        <li class="active"><a href="#" data-filter="*"> All</a></li>
+                        <li><a href="#" data-filter=".cat1">printing</a></li>
+                        <li><a href="#" data-filter=".cat2">Web</a></li>
+                        <li><a href="#" data-filter=".cat3">illustration</a></li>
+                        <li><a href="#" data-filter=".cat4">media</a></li>
+                        <li><a href="#" data-filter=".cat5">crafts</a></li>
+                    </ul>
+                </div>
+                <div class="portfolio col-4">
+
+                    <div class="portfolio-item cat1 cat3 ">
+                        <div class="thumb">
+                            <img src="img/portfolio/01.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="img/portfolio/01.jpg" class="popup-link" title="lightbox view"> <i class=" icon-focus"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="img/portfolio/01.jpg" class="popup-link" title="lightbox view">lightbox view</a></h4>
+                                    <p><a href="#">category</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat2 cat4">
+                        <div class="thumb">
+                            <img src="img/portfolio/02.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="portfolio-details.html"> <i class="icon-attachment"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="portfolio-details.html">External link</a></h4>
+                                    <p><a href="#">category 1</a> , <a href="#">category 2</a> </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat1 cat2">
+                        <div class="thumb">
+
+                            <div class="portfolio-slider">
+                                <ul class="slides">
+                                    <li>
+                                        <a href="img/portfolio/07.jpg" title="Freshness Photo"><img src="img/portfolio/07.jpg" alt=""></a>
+                                    </li>
+                                    <li>
+                                        <a href="img/portfolio/07a.jpg" title="Awesome Lightbox"><img src="img/portfolio/07a.jpg" alt=""></a>
+                                    </li>
+                                    <li>
+                                        <a href="img/portfolio/07b.jpg" title="Onepage UI Components"><img src="img/portfolio/07b.jpg" alt=""></a>
+                                    </li>
+                                    <li>
+                                        <a href="img/portfolio/07c.jpg" title="Amazing Theme"><img src="img/portfolio/07c.jpg" alt=""></a>
+                                    </li>
+                                </ul>
+                            </div>
+
+
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="#"> <i class=" icon-focus"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="#">lightbox Gallary</a></h4>
+                                    <p><a href="#">category</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat1 cat4">
+                        <div class="thumb">
+                            <img src="img/portfolio/03.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a class="popup-vimeo" href="../vimeo.com/45830194.html"> <i class="icon-video"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a class="popup-vimeo" href="../vimeo.com/45830194.html" >Video lightbox</a></h4>
+                                    <p><a href="#">category</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat2 cat5 ">
+                        <div class="thumb">
+
+                            <div class="portfolio-slider-alt">
+                                <ul class="slides">
+                                    <li>
+                                        <a href="img/portfolio/08.jpg" title="Freshness"><img src="img/portfolio/08.jpg" alt=""></a>
+                                    </li>
+                                    <li>
+                                        <a href="img/portfolio/08a.jpg" title="Onepage"><img src="img/portfolio/08a.jpg" alt=""></a>
+                                    </li>
+                                    <li>
+                                        <a href="img/portfolio/08b.jpg" title="Bootstrap"><img src="img/portfolio/08b.jpg" alt=""></a>
+                                    </li>
+                                </ul>
+                            </div>
+
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="#"> <i class=" icon-focus"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="#">lightbox gallery</a></h4>
+                                    <p><a href="#">category</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat2 cat4">
+                        <div class="thumb">
+                            <img src="img/portfolio/04.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="img/portfolio/04.jpg" class="popup-link" title="lightbox view"> <i class=" icon-focus"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="img/portfolio/04.jpg" class="popup-link" title="lightbox view">lightbox view</a></h4>
+                                    <p><a href="#">category 3</a> , <a href="#">category 4</a> </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="portfolio-item cat3 ">
+                        <div class="thumb">
+                            <img src="img/portfolio/05.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="portfolio-details.html"> <i class="icon-attachment"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="portfolio-details.html">External link</a></h4>
+                                    <p><a href="#">category</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="portfolio-item cat1 cat4 cat3 cat5">
+                        <div class="thumb">
+                            <img src="img/portfolio/06.jpg" alt="">
+                            <div class="portfolio-hover">
+                                <div class="action-btn">
+                                    <a href="img/portfolio/06.jpg" class="popup-link" title="lightbox view"> <i class=" icon-focus"></i>  </a>
+                                </div>
+                                <div class="portfolio-description">
+                                    <h4><a href="img/portfolio/06.jpg" class="popup-link" title="lightbox view">lightbox view</a></h4>
+                                    <p><a href="#">category 5</a> , <a href="#">category 6</a> </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+        </section>
+        <!--portfolio section end-->
+
+        <!--testimonial section start-->
+        <section id="testimonial">
+            <section class="section-wrapper overlay-background testimonial-section ">
+                <div class="overlay-block">
+                </div>
+                <div class="container">
+                    <div class="header-section  align-center">
+                        <h2 class="section-heading light">testimonial</h2>
+                        <span class="section-sub-heading light-txt">vitae pharetra odio tempor vitae auris mi magna</span>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="testimonial-wrap">
+                                <div>
+                                    <div class="testimonial-thumb">
+                                        <img src="img/testimonial_img1.jpg" alt="testimonal">
+                                    </div>
+                                    <div class="testimonial-user">
+                                        <span>Jonathan Smith</span> CEO ABC Corp.
+                                    </div>
+                                    <div class="h-divider-small">
+                                        <span></span><span></span><span></span><span></span><span></span>
+                                    </div>
+                                    <div class="testimonial-quote">
+                                        <p>
+                                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="testimonial-thumb">
+                                        <img src="img/testimonial_img1.jpg" alt="testimonal">
+                                    </div>
+                                    <div class="testimonial-user">
+                                        <span>Morgan Benjamin</span> Managing Director
+                                    </div>
+                                    <div class="h-divider-small">
+                                        <span></span><span></span><span></span><span></span><span></span>
+                                    </div>
+                                    <div class="testimonial-quote">
+                                        <p>
+                                            Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div class="testimonial-thumb">
+                                        <img src="img/testimonial_img1.jpg" alt="testimonal">
+                                    </div>
+                                    <div class="testimonial-user">
+                                        <span>John Doe</span> HR Manager
+                                    </div>
+                                    <div class="h-divider-small">
+                                        <span></span><span></span><span></span><span></span><span></span>
+                                    </div>
+                                    <div class="testimonial-quote">
+                                        <p>
+                                            Fringilla vel, aliquet nec, consequat massa quis enim. Donec pede justo, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--testimonial section end-->
+
+        <!--clients section start-->
+        <section class="clients-section section-wrapper">
+            <div class="container">
+
+                <div class="header-section  align-center">
+                    <h2 class="section-heading">Clients</h2>
+                    <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                </div>
+
+                <ul class="clients-list wow fadeInUp">
+                    <li>
+                        <img src="img/clients/client1.png" alt="clients">
+                    </li>
+                    <li>
+                        <img src="img/clients/client2.png" alt="clients">
+                    </li>
+                    <li>
+                        <img src="img/clients/client3.png" alt="clients">
+                    </li>
+                    <li>
+                        <img src="img/clients/client4.png" alt="clients">
+                    </li>
+                    <li>
+                        <img src="img/clients/client5.png" alt="clients">
+                    </li>
+                </ul>
+            </div>
+        </section>
+        <!--clients section end-->
+
+        <!--blog section start-->
+        <section id="blog" class="blog-section section-wrapper">
+            <div class="container">
+
+                <div class="header-section  align-center">
+                    <h2 class="section-heading">Blog</h2>
+                    <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-posts wow fadeInLeft">
+                            <div class="blog-attacment caption-effect">
+                                <div>
+                                    <img src="img/blog/blog_img1.jpg" alt="blog-img">
+                                    <div class="caption">
+                                        <div class="blur">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="blog-content">
+                                <h4><a href="#">Aed do eiusmod tempor incididunt</a></h4>
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                                </p>
+                            </div>
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-user-md"></i> John Doe</a></li>
+                                    <li> <i class="fa fa-calendar"></i> March 02, 2013 </li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 3 Comments</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-posts wow fadeInUp">
+                            <div class="blog-attacment caption-effect">
+                                <div>
+                                    <img src="img/blog/blog_img2.jpg" alt="blog-img">
+                                    <div class="caption">
+                                        <div class="blur">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="blog-content">
+                                <h4><a href="#">sed do eiusmod tempor incididunt ut labore</a></h4>
+                                <p>
+                                    Ipsum dolor sit amet, consectetur adipisicing elit,  incididunt ut labore et sed do eiusmod tempor incididunt ut labore et
+                                </p>
+                            </div>
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-user-md"></i> Jonathan Smith </a></li>
+                                    <li> <i class="fa fa-calendar"></i> April 13, 2014 </li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 5 Comments</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-posts wow fadeInRight">
+                            <div class="blog-attacment caption-effect">
+                                <div>
+                                    <img src="img/blog/blog_img3.jpg" alt="blog-img">
+                                    <div class="caption">
+                                        <div class="blur">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="blog-content">
+                                <h4><a href="#">Mod tempor incididunt eiusmod tempor </a></h4>
+                                <p>
+                                    Consure ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                                </p>
+                            </div>
+                            <div class="blog-meta">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-user-md"></i> Margarita Roje</a></li>
+                                    <li> <i class="fa fa-calendar"></i> June 22, 2015 </li>
+                                    <li><a href="#"><i class="fa fa-comments"></i> 7 Comments</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="btn-row text-center m-top-50">
+                        <a href="blog_list.html" class="btn btn-bg-color"> View More Blogs </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--blog section end-->
+
+        <!--video post start-->
+        <section class="section-wrapper video-section ">
+            <div class="container">
+
+                <div class="header-section  align-center">
+                    <h2 class="section-heading">Video Post</h2>
+                    <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                </div>
+
+                <div class="about-text">
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco nisi ut aliquip.
+                    </p>
+                </div>
+                <div class="vdo-wrap">
+                    <iframe width="560" height="315" src="../www.youtube.com/embed/4mdxgZM4y-M.html"  allowfullscreen></iframe>
+                </div>
+            </div>
+        </section>
+        <!--video post end-->
+
+        <!--pricing table start-->
+        <section id="price" class="section-wrapper pricing-section ">
+            <div class="container">
+
+                <div class="header-section  align-center">
+                    <h2 class="section-heading">Pricing table</h2>
+                    <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                </div>
+
+                <div class="cd-pricing-container cd-has-margins">
+
+                    <div class="cd-pricing-switcher">
+                        <p class="fieldset">
+                            <input type="radio" name="duration-2" value="monthly" id="monthly-2" checked>
+                            <label for="monthly-2">Log In</label>
+                            <input type="radio" name="duration-2" value="yearly" id="yearly-2">
+                            <label for="yearly-2">Register</label>
+                            <span class="cd-switch"></span>
+                        </p>
+                    </div>
+
+                    <ul class="cd-pricing-list cd-bounce-invert">
+                        <li>
+                            <ul class="cd-pricing-wrapper">
+                                <li data-type="monthly" class="is-visible">
+                                    <header class="cd-pricing-header">
+                                        <h2>Basic</h2>
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">20</span>
+                                            <span class="cd-duration">mo</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>10GB Storage</li>
+                                            <li>1GB Bandwidth</li>
+                                            <li>512 Memory</li>
+                                            <li>10 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+
+                                <li data-type="yearly" class="is-hidden">
+                                    <header class="cd-pricing-header">
+                                        <h2>Basic</h2>
+
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">200</span>
+                                            <span class="cd-duration">yr</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>100GB Storage</li>
+                                            <li>50GB Bandwidth</li>
+                                            <li>5GB Memory</li>
+                                            <li>50 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="cd-popular">
+                            <ul class="cd-pricing-wrapper">
+                                <li data-type="monthly" class="is-visible">
+                                    <header class="cd-pricing-header">
+                                        <h2>Popular</h2>
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">40</span>
+                                            <span class="cd-duration">mo</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>20GB Storage</li>
+                                            <li>2GB Bandwidth</li>
+                                            <li>1GB Memory</li>
+                                            <li>20 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select cd-btn" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+
+                                <li data-type="yearly" class="is-hidden">
+                                    <header class="cd-pricing-header">
+                                        <h2>Popular</h2>
+
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">400</span>
+                                            <span class="cd-duration">yr</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>200GB Storage</li>
+                                            <li>100GB Bandwidth</li>
+                                            <li>10GB Memory</li>
+                                            <li>100 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select cd-btn" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <ul class="cd-pricing-wrapper">
+                                <li data-type="monthly" class="is-visible">
+                                    <header class="cd-pricing-header">
+                                        <h2>Premier</h2>
+
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">80</span>
+                                            <span class="cd-duration">mo</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>40GB Storage</li>
+                                            <li>5GB Bandwidth</li>
+                                            <li>5GB Memory</li>
+                                            <li>50 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+
+                                <li data-type="yearly" class="is-hidden">
+                                    <header class="cd-pricing-header">
+                                        <h2>Premier</h2>
+                                        <div class="cd-price">
+                                            <span class="cd-currency">$</span>
+                                            <span class="cd-value">600</span>
+                                            <span class="cd-duration">yr</span>
+                                        </div>
+                                    </header>
+
+                                    <div class="cd-pricing-body">
+                                        <ul class="cd-pricing-features">
+                                            <li>24/7 Tech Support</li>
+                                            <li>Advanced Option</li>
+                                            <li>500GB Storage</li>
+                                            <li>200GB Bandwidth</li>
+                                            <li>40GB Memory</li>
+                                            <li>300 Free Domain</li>
+                                        </ul>
+                                    </div>
+
+                                    <footer class="cd-pricing-footer">
+                                        <a class="cd-select" href="#">Purchase Now</a>
+                                    </footer>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </section>
+        <!--pricing table end-->
+
+        <!--quotation section start-->
+        <section class="section-wrapper overlay-background quotation-section ">
+            <div class="overlay-block">
+            </div>
+            <div class="container">
+                <div class="col-md-12">
+                    <div class="q-quote">
+                        <p>
+                            In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. <br/> Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+                        </p>
+                        <span class="q-name"> - Theme Developers - </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--quotation section end-->
+
+
+        <!--contact section start-->
+        <section id="contact">
+            <section class="section-wrapper contact-section ">
+                <div class="container">
+
+                    <div class="header-section  align-center">
+                        <h2 class="section-heading">Contact Us</h2>
+                        <span class="section-sub-heading">vitae pharetra odio tempor vitae auris mi magna</span>
+                    </div>
+
+                    <div class="about-text">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco nisi ut aliquip.
+                        </p>
+                    </div>
+                    <div class="contact-form">
+                        <form>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <input type="text" class="form-control onex-input" name="name" placeholder="Name">
+                                    <input type="email" class="form-control onex-input" name="email" placeholder="Email">
+                                    <input type="text" class="form-control onex-input" name="subject" placeholder="Subject">
+                                </div>
+                                <div class="col-md-6">
+                                    <textarea class="form-control onex-textarea contact-message" placeholder="Message"></textarea>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="contact-form-action">
+                                        <a href="#" class="btn btn-bg-color">
+                                            Send Message </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <!--contact section end-->
+
+        <!--promotional section start-->
+        <section class="promotional-banner">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 col-sm-12">
+                        <div class="promotional-text">
+                            <p>
+                                Already set your mind to buy this theme? or need more...
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-12">
+                        <div class="btn-wrap">
+                            <a href="#" class="btn-bordered">purchase now</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--promotional section end-->
+
+    </section>
+
+    <!--footer section start-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <ul class="footer-social-icon">
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-facebook"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-twitter"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-pinterest"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-google-plus"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="fa fa-dribbble"></i>
+                            </a>
+                        </li>
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-linkedin"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-github"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-vimeo-square"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-youtube"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-flickr"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-instagram"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                        <!--<li>-->
+                        <!--<a href="#">-->
+                        <!--<i class="fa fa-tumblr"></i>-->
+                        <!--</a>-->
+                        <!--</li>-->
+                    </ul>
+                    <div class="footer-logo wow fadeInUp">
+
+                        <a href="#" class="f-logo"><img src="img/onex-logo-footer.png" alt="oneX Logo"></a>
+                        <a href="#" class="f-retina-logo"><img src="img/onex-logo-footer%402x.png" alt="OneX Logo"></a>
+
+                    </div>
+                    <div class="footer-address">
+                        <p>121 King Street, Melbourne, Victoria 3000 Australia, Email: info@onex.com</p>
+                    </div>
+                    <div class="copyright">
+                        <p>&copy; 2000-2014 All rights reserved. <a href="#">Privacy Policy</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <!--footer section end-->
+
+    <!--style switcher start-->
+    <div class="style-switcher">
+        <a href="#" class="toggle side-toggle">
+            <i class="fa fa-cog fa-spin"></i>
+        </a>
+        <h3>Theme Colors</h3>
+        <ul class="color-list">
+            <li class="cl-item" data-color="#008ed6" title="theme-blue"> </li>
+            <li class="cl-item" data-color="#82B440" title="theme-green"> </li>
+            <li class="cl-item" data-color="#f14e43" title="theme-red"> </li>
+            <li class="cl-item" data-color="#31bfc3" title="theme-turquoise"> </li>
+            <li class="cl-item" data-color="#F1C40F" title="theme-yellow"> </li>
+        </ul>
+    </div>
+    <!--style switcher end-->
+
+    <!--jQuery-->
+    <script src="js/jquery-1.11.03860.js?v=1"></script>
+    <script src="js/royal_preloader.min.js"></script>
+    <script src="js/preloader-init.js"></script>
+    <script src="js/bootstrap3860.js?v=1"></script>
+    <script src="js/jquery.plugins3860.js?v=1"></script>
+    <script src="js/pricing-table.js"></script>
+    <script src="js/wow.min.js"></script>
+
+    <!--theme switcher-->
+    <script src="js/theme-switcher.js"></script>
+
+    <script src="js/onex30f4.js?v=3"></script>
+
+    <script>
+        $(document).ready(function () {
+            // banner text rotator
+            $(".rotate").textrotator({
+                animation: "dissolve", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin.
+                separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field.
+                speed: 3000 // How many milliseconds until the next word show.
+            });
+        });
+    </script>
+
+
+
+</body>
+
+<!-- Mirrored from onex.themebucket.net/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 14 Apr 2017 10:01:25 GMT -->
+</html>

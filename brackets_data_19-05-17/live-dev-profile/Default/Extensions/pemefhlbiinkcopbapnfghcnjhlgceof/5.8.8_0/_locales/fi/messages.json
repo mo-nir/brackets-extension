@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Hallitsija mittaamiseen tietokoneen kanssa. Älä unohda kalibroida tarkkuuden varmistamiseksi.",
+      "message": "Hallitsija mittaamiseen tietokoneen kanssa. Älä unohda kalibroida tarkkuuden varmistamiseksi."
+   },
+   "appName": {
+      "description": "Hallitsija mittaamiseen tietokoneen kanssa. Älä unohda kalibroida tarkkuuden varmistamiseksi.",
+      "message": "Hallitsija mittaamiseen"
+   }
+}

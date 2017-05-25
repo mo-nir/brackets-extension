@@ -1,0 +1,32 @@
+{
+   "author": "Markus Bader - MB-Softwaresolutions",
+   "background": {
+      "persistent": false,
+      "scripts": [ "content.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/MB-Ruler19.png",
+      "default_popup": "popup.html",
+      "default_title": "MB-Ruler"
+   },
+   "content_scripts": [ {
+      "css": [ "content.css", "mbruler_line.css", "mbruler_point.css", "grid/mbruler_grid.css", "triangularruler/mbruler_triangularruler.css", "guidelines/guidelines.css" ],
+      "js": [ "jquery.js", "content.js", "mbruler_line.js", "mbruler_point.js", "grid/mbruler_grid.js", "triangularruler/mbruler_triangularruler.js", "guidelines/guidelines.js" ],
+      "matches": [ "https://*/*", "http://*/*", "file://*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "images/MB-Ruler128.png",
+      "16": "images/MB-Ruler16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvnhPFdrJaK047pRMoAQtAhhCgvOnGyS8pEPESt62hiGuKPcUqdgyhyJlaaQ46R+G4Ho0vHHC1AczVKXdfKJey6corNZuiA7NzARk2FudzJ0s50a9KO6Tx5rm9Fxgz/NgRkz/rmlA6jayjhk5qV73aq3+/eU8gAVjM1Db3jneMy5ATITHSH4VQ6bPGjdCvLgcmBDOKFk5kgkCfUTHxeQng7PkRmqVYdsLBl2K7nJOd756KSRu/Vah6H9k1dhGgxUevOzn1yWJvMjSU8cqgre+P80cX422rhVPxa8XWioVkRV4dB4REi/TZF4ifvspugm6GuCot3Sl/YzC2+Rdgh5NXQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+   "short_name": "MB-Ruler",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.3.10",
+   "web_accessible_resources": [ "images/triangularruler.png", "images/windowgrid.png", "images/guidelines.png", "images/hideinstruments.png", "images/showinstruments.png" ]
+}

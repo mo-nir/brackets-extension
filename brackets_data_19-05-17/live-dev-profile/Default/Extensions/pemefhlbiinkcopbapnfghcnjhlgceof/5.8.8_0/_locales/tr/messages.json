@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "Bilgisayarınızla birlikte ölçmek için cetvel. Doğruluğunu sağlamak için kalibre unutmayın.",
+      "message": "Bilgisayarınızla birlikte ölçmek için cetvel. Doğruluğunu sağlamak için kalibre unutmayın."
+   },
+   "appName": {
+      "description": "Bilgisayarınızla birlikte ölçmek için cetvel. Doğruluğunu sağlamak için kalibre unutmayın.",
+      "message": "Ölçmek için Cetvel"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://www.freeonlineruler.com/?cws=1"
+      },
+      "urls": [ "https://www.freeonlineruler.com/" ]
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "ruler_128.gif"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCTWRVKbzSo59L1lNEmVB+di717bi6rVxj9Pz5xOlPbSWdrpXrsnZ1TuYK/FFrcQGECRr/J3c9yccHTu4eRcwwO/RI8omyBrxtX5os+XkzLFOIl9EjB+4P84N1iJMV7796lrhNJKUyk2C0A2K0IYu4SoCq6hYz6iazh3Ngsmf94OwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "offline_enabled": true,
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "5.8.8"
+}

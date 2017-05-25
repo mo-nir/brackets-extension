@@ -1,0 +1,354 @@
+<!doctype html>
+<html data-brackets-id='3961' class="no-js" lang="en">
+  <head data-brackets-id='3962'>
+    <!-- Meta Tags -->
+    <meta data-brackets-id='3963' charset="utf-8">
+    <meta data-brackets-id='3964' http-equiv="x-ua-compatible" content="ie=edge">
+    <meta data-brackets-id='3965' name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-brackets-id='3966' name="author" content="Pressionate">
+    <meta data-brackets-id='3967' name="description" content="">
+    <meta data-brackets-id='3968' name="keywords" content="">
+    <!-- Page Title -->
+    <title data-brackets-id='3969'>Presley - Creative Portfolio HTML Template</title>
+    <!-- Favicon and Apple Touch Icon -->
+    <link data-brackets-id='3970' rel="icon" href="img/favicon.png">
+    <link data-brackets-id='3971' rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Google Fonts -->
+    <link data-brackets-id='3972' href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link data-brackets-id='3973' href="css/plugins.css" rel="stylesheet">
+    <link data-brackets-id='3974' href="css/responsive.css" rel="stylesheet">
+    <link data-brackets-id='3975' href="css/style.css" rel="stylesheet">
+    <link data-brackets-id='3976' rel="stylesheet" href="css/custom.css">
+</head>
+
+<body data-brackets-id='3977'>
+    <!-- Start Header -->
+    <header data-brackets-id='3978' class="header">
+        <nav data-brackets-id='3979' id="mainNav" class="navbar navbar-default navbar-fixed-top custom-nav animated fadeInUp visible">
+            <div data-brackets-id='3980' class="container">
+                <!-- toggle menu -->
+                <div data-brackets-id='3981' class="navbar-header">
+                    <button data-brackets-id='3982' type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span data-brackets-id='3983' class="sr-only">Toggle navigation</span><i data-brackets-id='3984' class="fa fa-bars"></i>
+                    </button>
+                    <a data-brackets-id='3985' class="navbar-brand" href="index.html">PRESLEY</a>
+                </div>
+                <!-- navbar links -->
+                <div data-brackets-id='3986' class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul data-brackets-id='3987' class="nav navbar-nav pull-right mobile-responsive">
+                        <li data-brackets-id='3988' class="dropdown active animated transform-custom-ms fadeInDown visible">
+                            <a data-brackets-id='3989' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Home</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='3990' class="dropdown-menu">
+                                <li data-brackets-id='3991' class="active"><a data-brackets-id='3992' href="index.html">Home - 1</a></li>
+                                <li data-brackets-id='3993'><a data-brackets-id='3994' href="home-1.html">Home - 2</a></li>
+                                <li data-brackets-id='3995'><a data-brackets-id='3996' href="home-2.html">Home - 3</a></li>
+                                <li data-brackets-id='3997'><a data-brackets-id='3998' href="home-3.html">Home - 4</a></li>
+                                <li data-brackets-id='3999'><a data-brackets-id='4000' href="home-4.html">Home - 5</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='4001'>
+                            <a data-brackets-id='4002' href="about.html">About</a>
+                        </li>
+                        <li data-brackets-id='4003' class="dropdown">
+                            <a data-brackets-id='4004' href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='4005' class="dropdown-menu">
+                                <li data-brackets-id='4006'><a data-brackets-id='4007' href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                                <li data-brackets-id='4008'><a data-brackets-id='4009' href="portfolio-even-grid.html">Portfolio Even Grid</a></li>
+                                <li data-brackets-id='4010'><a data-brackets-id='4011' href="portfolio-single.html">Portfolio Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='4012' class="dropdown">
+                            <a data-brackets-id='4013' href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Blog</a>
+                            <!-- dropdown -->
+                            <ul data-brackets-id='4014' class="dropdown-menu">
+                                <li data-brackets-id='4015'><a data-brackets-id='4016' href="blog.html">Blog Grid</a></li>
+                                <li data-brackets-id='4017'><a data-brackets-id='4018' href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>
+                        <li data-brackets-id='4019'>
+                            <a data-brackets-id='4020' href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div><!-- .navbar-collapse -->
+            </div><!-- .container -->
+        </nav>
+    </header>
+    <!-- End Header -->
+
+    <!-- Start Slider Section-->
+    <div data-brackets-id='4021' class="main-slider">
+        <!-- Slider -->
+        <div data-brackets-id='4022' id="rev_slider_486_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery36" data-source="gallery" style="margin:0px auto;background-color:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;">
+            <!-- START REVOLUTION SLIDER 5.3.0.2 fullwidth mode -->
+            <div data-brackets-id='4023' id="rev_slider_486_1" class="rev_slider fullwidthabanner" data-version="5.3.0.2">
+                <ul data-brackets-id='4024'>
+                    <!-- Slide -->
+                    <li data-brackets-id='4025' data-index="rs-1687" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="100" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Science says that Women are generally happier">
+                        <!-- Main Image -->
+                        <img data-brackets-id='4026' src="img/slider/slider1.jpg" alt="" class="rev-slidebg" data-no-retina>
+
+                        <!-- Layers -->
+                        <!-- Layer NR. 1 -->
+                        <div data-brackets-id='4027' class="tp-caption tp-shape tp-shapewrapper   tp-resizeme" id="slide-1687-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="normal" data-type="shape" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;text-transform:left;background-color:rgba(0, 0, 0, 0.75);border-color:rgba(0, 0, 0, 1.00);border-width:0px;"> </div>
+
+                        <!-- Layer NR. 2 -->
+                        <div data-brackets-id='4028' class="tp-caption maincaption tp-resizeme tp-fonts custom-content" id="slide-2961-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','130','110','120']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":750,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; color: rgb(255, 255, 255);text-transform:left;border-color:rgba(0, 0, 0, 1.00);">It's not just a Portfolio. </div>
+
+                        <!-- Layer NR. 2 -->
+                        <div data-brackets-id='4029' class="tp-caption maincaption   tp-resizeme tp-fonts custom-content" id="slide-2961-layer-12" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','175','155','170']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; color: rgb(255, 255, 255);text-transform:left;border-color:rgba(0, 0, 0, 1.00);">But a new way to deliver ideas. </div>
+                    </li>
+
+                    <!-- Slider  -->
+                    <li data-brackets-id='4030' data-index="rs-1688" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="THE REAL DEAL" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="Every right implies a responsibility.">
+                        <!-- Main Image -->
+                        <img data-brackets-id='4031' src="img/slider/slider2.jpg" alt="" class="rev-slidebg" data-no-retina>
+
+                        <!-- Layers -->
+                        <!-- Layer NR. 5 -->
+                        <div data-brackets-id='4032' class="tp-caption tp-shape tp-shapewrapper   tp-resizeme" id="slide-1690-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="normal" data-type="shape" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;text-transform:left;background-color:rgba(0, 0, 0, 0.55);border-color:rgba(0, 0, 0, 1.00);border-width:0px;"> </div>
+
+                        <!-- Layer NR. 7 -->
+                        <div data-brackets-id='4033' class="tp-caption maincaption   tp-resizeme tp-fonts custom-content" id="slide-29622-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','130','110','120']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":750,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; white-space: nowrap; color: rgb(255, 255, 255);text-transform:left;border-color:rgba(0, 0, 0, 1.00);">What can I do?
+                        </div>
+
+                        <!-- Layer NR. 8 -->
+                        <div data-brackets-id='4034' class="tp-caption subcaption   tp-resizeme tp-fonts custom-content" id="slide-29623-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','175','155','170']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 12; white-space: nowrap;text-transform:left; color: rgb(255, 255, 255);">It also looks great.</div>
+                    </li>
+
+                    <!-- Slider  -->
+                    <li data-brackets-id='4035' data-index="rs-1689" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="NATURAL BEAUTY" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="There was never a night or a problem that could defeat sunrise or hope.">
+                        <!-- Main Image -->
+                        <img data-brackets-id='4036' src="img/slider/slider3.jpg" alt="" class="rev-slidebg" data-no-retina>
+
+                        <!-- Layers -->
+                        <!-- Layer NR. 5 -->
+                        <div data-brackets-id='4037' class="tp-caption tp-shape tp-shapewrapper   tp-resizeme" id="slide-1691-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="normal" data-type="shape" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;text-transform:left;background-color:rgba(0, 0, 0, 0.55);border-color:rgba(0, 0, 0, 1.00);border-width:0px;"> </div>
+
+                        <!-- Layer NR. 7 -->
+                        <div data-brackets-id='4038' class="tp-caption maincaption   tp-resizeme tp-fonts custom-content" id="slide-2962-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['250','130','110','120']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":750,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 11; white-space: nowrap; color: rgb(255, 255, 255);text-transform:left;border-color:rgba(0, 0, 0, 1.00);">It's not just a Slider.
+                        </div>
+
+                        <!-- Layer NR. 8 -->
+                        <div data-brackets-id='4039' class="tp-caption subcaption   tp-resizeme tp-fonts custom-content" id="slide-29621-layer-2" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','top','top']" data-voffset="['300','175','155','170']" data-fontsize="['33','33','33','28']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:50px;opacity:0;","speed":2000,"to":"o:1;","delay":1000,"ease":"Power3.easeOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 12; white-space: nowrap;text-transform:left; color: rgb(255, 255, 255);">But a new way to deliver ideas. </div>
+                    </li>
+                </ul>
+                <div data-brackets-id='4040' class="tp-bannertimer tp-bottom" style="height: 2px; background-color: rgba(244, 242, 243, 0.57); visibility: visible;"></div>
+            </div>
+        </div><!-- END Revolutino Slider -->
+    </div>
+    <!-- End Slider Section -->
+
+    <!-- Portfolio Section -->
+    <section data-brackets-id='4041' id="projects">
+        <div data-brackets-id='4042' class="container">
+            <div data-brackets-id='4043' class="row">
+                <div data-brackets-id='4044' class="col-md-12">
+                    <div data-brackets-id='4045' class="isotope-filters pad-bottom-60">
+                        <!-- nav-->
+                        <ul data-brackets-id='4046' class="nav nav-tabs light-style text-center">
+                            <li data-brackets-id='4047'><a data-brackets-id='4048' href="#" data-filter=".all" class="filter active">All</a></li>
+                            <li data-brackets-id='4049'><a data-brackets-id='4050' href="#" data-filter=".design" class="filter">Design</a></li>
+                            <li data-brackets-id='4051'><a data-brackets-id='4052' href="#" data-filter=".identity" class="filter">Identity</a></li>
+                            <li data-brackets-id='4053'><a data-brackets-id='4054' href="#" data-filter=".web" class="filter">Web</a></li>
+                            <li data-brackets-id='4055'><a data-brackets-id='4056' href="#" data-filter=".photography" class="filter">Photography</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div data-brackets-id='4057' class="row">
+                <div data-brackets-id='4058' class="col-md-12">
+                    <!-- Grid-->
+                    <div data-brackets-id='4059' class="isotope-grid grid-two-column" data-gutter="0" data-columns="2">
+                        <div data-brackets-id='4060' class="grid-sizer"></div>
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4061' class="item all design web">
+                            <div data-brackets-id='4062' class="image-wrapper">
+                                <!-- Image -->
+                                <img data-brackets-id='4063' class="wrapper-scale-in img-responsive" src="img/portfolio/port-01.jpg" alt="" title="masonry" width="540" height="252">
+                                <!-- Overla -->
+                                <div data-brackets-id='4064' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4065' class="img-title text-center">
+                                        <h4 data-brackets-id='4066' class="bottom"><a data-brackets-id='4067' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4068'><a data-brackets-id='4069' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4070' class="white"> , </span>
+                                        <span data-brackets-id='4071'><a data-brackets-id='4072' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div><!-- .image-wrapper -->
+                        </div>
+                        <!-- End Portfolio Item -->
+
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4073' class="item all identity web">
+                            <div data-brackets-id='4074' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <img data-brackets-id='4075' class="wrapper-scale-in img-responsive" src="img/portfolio/port-02.jpg" alt="" title="masonry" width="540" height="498">
+                                <div data-brackets-id='4076' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4077' class="img-title text-center">
+                                        <h4 data-brackets-id='4078' class="bottom"><a data-brackets-id='4079' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4080'><a data-brackets-id='4081' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4082' class="white"> , </span>
+                                        <span data-brackets-id='4083'><a data-brackets-id='4084' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4085' class="item all design identity photography">
+                            <div data-brackets-id='4086' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <img data-brackets-id='4087' class="wrapper-scale-in img-responsive" src="img/portfolio/port-03.jpg" alt="" title="masonry" width="540" height="498">
+                                <div data-brackets-id='4088' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4089' class="img-title text-center">
+                                        <h4 data-brackets-id='4090' class="bottom"><a data-brackets-id='4091' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4092'><a data-brackets-id='4093' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4094' class="white"> , </span>
+                                        <span data-brackets-id='4095'><a data-brackets-id='4096' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4097' class="item all design">
+                            <div data-brackets-id='4098' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <img data-brackets-id='4099' class="wrapper-scale-in img-responsive" src="img/portfolio/port-04.jpg" alt="" title="masonry" width="540" height="252">
+                                <div data-brackets-id='4100' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4101' class="img-title text-center">
+                                        <h4 data-brackets-id='4102' class="bottom"><a data-brackets-id='4103' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4104'><a data-brackets-id='4105' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4106' class="white"> , </span>
+                                        <span data-brackets-id='4107'><a data-brackets-id='4108' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4109' class="item all identity design">
+                            <div data-brackets-id='4110' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <img data-brackets-id='4111' class="wrapper-scale-in img-responsive" src="img/portfolio/port-05.jpg" alt="" title="masonry" width="540" height="252">
+                                <div data-brackets-id='4112' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4113' class="img-title text-center">
+                                        <h4 data-brackets-id='4114' class="bottom"><a data-brackets-id='4115' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4116'><a data-brackets-id='4117' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4118' class="white"> , </span>
+                                        <span data-brackets-id='4119'><a data-brackets-id='4120' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+
+                        <!-- Portfolio Item -->
+                        <div data-brackets-id='4121' class="item all web photography">
+                            <div data-brackets-id='4122' class="image-wrapper overlay-darker overlay-slidein-left">
+                                <img data-brackets-id='4123' class="wrapper-scale-in img-responsive" src="img/portfolio/port-06.jpg" alt="" title="masonry" width="540" height="252">
+                                <div data-brackets-id='4124' class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <div data-brackets-id='4125' class="img-title text-center">
+                                        <h4 data-brackets-id='4126' class="bottom"><a data-brackets-id='4127' href="portfolio-single.html">BRANDING</a></h4>
+                                        <span data-brackets-id='4128'><a data-brackets-id='4129' href="portfolio-single.html">Wooden</a></span>
+                                        <span data-brackets-id='4130' class="white"> , </span>
+                                        <span data-brackets-id='4131'><a data-brackets-id='4132' href="portfolio-single.html">Chair</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Portfolio Item -->
+                    </div>
+                    <!-- button -->
+                    <div data-brackets-id='4133' class="loadmore text-center">
+                        <a data-brackets-id='4134' href="#">LOAD MORE</a>
+                    </div>
+                </div>
+            </div>
+        </div><!-- .container -->
+    </section>
+    <!-- End Portfolio Section -->
+
+    <!-- about section -->
+    <section data-brackets-id='4135' id="about-us" class="about-us pad-tb-40">
+        <!-- custom -->
+        <div data-brackets-id='4136' class="container custom-about">
+            <!-- row -->
+            <div data-brackets-id='4137' class="row">
+                <div data-brackets-id='4138' class="col-md-6 abt-left animated fadeInLeft visible">
+                    <div data-brackets-id='4139' class="about-img">
+                        <img data-brackets-id='4140' src="img/about-us-1.jpg" class="img-responsive" alt="" title="" width="290" height="329">
+                    </div>
+                </div>
+                <div data-brackets-id='4141' class="col-md-6 abt-right animated">
+                    <div data-brackets-id='4142' class="about-content">
+                        <div data-brackets-id='4143' class="title-heading pad-tb-30">
+                            <h3 data-brackets-id='4144' class="upper">I am a Passionate Designer</h3>
+                            <h5 data-brackets-id='4145'>WE TRY TO PROVIDE BEST SERVICE</h5>
+                        </div>
+                        <p data-brackets-id='4146'>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. </p>
+                    </div>
+                </div>
+            </div><!-- end .row -->
+        </div><!-- end .container -->
+    </section>
+    <!-- End about section -->
+
+    <!-- Start Testimonial -->
+    <section data-brackets-id='4147' class="testimonial-1 pad-tb-70">
+        <div data-brackets-id='4148' class="container">
+            <div data-brackets-id='4149' class="row">
+                <div data-brackets-id='4150' class="col-sm-10 col-sm-offset-1">
+                    <div data-brackets-id='4151' class="home-testimonial">
+                        <div data-brackets-id='4152' class="single-testimonial">“Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.”</div>
+                        <div data-brackets-id='4153' class="single-testimonial">“Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.”</div>
+                        <div data-brackets-id='4154' class="single-testimonial">“Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.”</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End testimonial -->
+
+    <!-- Back to Top -->
+    <a data-brackets-id='4155' href="#" id="back-to-top" title="Back to top" class="show"></a>
+
+    <!-- Start Footer -->
+    <footer data-brackets-id='4156' class="custom-footer">
+        <div data-brackets-id='4157' class="container">
+            <div data-brackets-id='4158' class="copyright">
+                <p data-brackets-id='4159'>Copyright &copy; 2017 PRESLEY. All Rights Reserved. Designed by <a data-brackets-id='4160' href="http://pressionate.com" target="_blank">Pressionate</a>.</p>
+            </div>
+            <ul data-brackets-id='4161' class="list-inline f-social pad-top-20">
+                <li data-brackets-id='4162'>
+                    <a data-brackets-id='4163' href="#"><i data-brackets-id='4164' class="fa fa-facebook"></i>Facebook</a>
+                </li>
+                <li data-brackets-id='4165'>
+                    <a data-brackets-id='4166' href="#"><i data-brackets-id='4167' class="fa fa-twitter"></i>Twitter</a>
+                </li>
+                <li data-brackets-id='4168'>
+                    <a data-brackets-id='4169' href="#"><i data-brackets-id='4170' class="fa fa-dribbble"></i>Dribbble</a>
+                </li>
+                <li data-brackets-id='4171'>
+                    <a data-brackets-id='4172' href="#"><i data-brackets-id='4173' class="fa fa-instagram"></i>Instagram</a>
+                </li>
+                <li data-brackets-id='4174'>
+                    <a data-brackets-id='4175' href="#"><i data-brackets-id='4176' class="fa fa-google-plus"></i>Google+</a>
+                </li>
+                <li data-brackets-id='4177'>
+                    <a data-brackets-id='4178' href="#"><i data-brackets-id='4179' class="fa fa-linkedin"></i>Linkedin</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script data-brackets-id='4180' src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script data-brackets-id='4181' src="js/plugins.js"></script>
+    <script data-brackets-id='4182' src="js/portfolio.js"></script>
+    <script data-brackets-id='4183' src="js/main.js"></script>
+
+</body>
+</html>

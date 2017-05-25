@@ -1,0 +1,725 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <!-- Meta Tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Pressionate">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <!-- Page Title -->
+    <title>Presley - Creative Portfolio HTML Template</title>
+    <!-- Favicon and Apple Touch Icon -->
+    <link rel="icon" href="img/favicon.png">
+    <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Rajdhani:300,400,500,600,700" rel="stylesheet">
+    <!-- Stylesheets -->
+    <link href="css/plugins.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+    <!-- header -->
+    <header class="header">
+        <!-- navbar -->
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top custom-nav animated fadeInUp visible">
+            <div class="container">
+                <!-- toggle menu -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span><i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="index.html">PRESLEY</a>
+                </div>
+
+                <!-- navbar links -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav pull-right mobile-responsive">
+                        <li class="dropdown active animated transform-custom-ms fadeInDown visible">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Home</a>
+                            <!-- dropdown -->
+                            <ul class="dropdown-menu">
+                                <li><a href="index.html">Home - 1</a></li>
+                                <li><a href="home-1.html">Home - 2</a></li>
+                                <li class="active"><a href="home-2.html">Home - 3</a></li>
+                                <li><a href="home-3.html">Home - 4</a></li>
+                                <li><a href="home-4.html">Home - 5</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="about.html">About</a>
+                        </li>
+                        <li>
+                            <a href="service.html">Services</a>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Portfolio</a>
+                            <!-- dropdown -->
+                            <ul class="dropdown-menu">
+                                <li><a href="portfolio-masonry.html">Portfolio Masonry</a></li>
+                                <li><a href="portfolio-even-grid.html">Portfolio Even Grid</a></li>
+                                <li><a href="portfolio-single.html">Portfolio Single</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Blog</a>
+                            <!-- dropdown -->
+                            <ul class="dropdown-menu">
+                                <li><a href="blog.html">Blog Grid</a></li>
+                                <li><a href="blog-single.html">Blog Single</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+
+    </header>
+    <!-- end header -->
+ <!-- page title -->
+    <div class="home-page-title1">
+        <div class="bg-border">
+            <div class="page-title-inner">
+                <nav class="text-center animated fadeInUp visible">
+                    <h3>HELLO, WELCOME TO JAZZ</h3>
+                    <h5 class="white">CREATIVE PORTFOLIO</h5>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- page title -->
+
+
+    <!-- PORTFOLIO SECTION -->
+    <section id="projects" class="masonry">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="isotope-filters pad-bottom-60">
+                        <!-- NAV-->
+                        <ul class="nav nav-tabs light-style text-center">
+                            <li><a href="#" data-filter=".all" class="filter active">All</a></li>
+                            <li><a href="#" data-filter=".design" class="filter">Design</a></li>
+                            <li><a href="#" data-filter=".identity" class="filter">Identity</a></li>
+                            <li><a href="#" data-filter=".web" class="filter">Web</a></li>
+                            <li><a href="#" data-filter=".photography" class="filter">Photography</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- GRID-->
+                    <div class="isotope-grid grid-three-column" data-gutter="20" data-columns="3">
+                        <div class="grid-sizer"></div>
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design web">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/1.jpg" alt="" width="366" height="469" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all identity web">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/2.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design identity photography">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/3.jpg" alt="" width="366" height="469" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/4.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all identity design">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/5.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/6.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/7.jpg" alt="" width="366" height="469" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all design">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/8.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- /. PORTFOLIO ITEM -->
+                        <!-- PORTFOLIO ITEM -->
+                        <div class="item all web photography">
+                            <!-- IMAGE WRAPPER -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/portfolio/grid/9.jpg" alt="" width="366" height="244" />
+                                <!-- OVERLAY -->
+                                <div class="img-desc animated transform-custom-ms fadeInDown visible">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-title text-center">
+                                        <!-- PROJECT TITLE-->
+                                        <a href="portfolio-single.html"><i class="ion-ios-plus-outline fa-4x"></i></a>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- /.IMAGE WRAPPER -->
+                            <div class="portfolio-title pad-20">
+                                <h4 class="margin-none"><a href="portfolio-single.html">PORTFOLIO TITLE</a></h4>
+                                <span><a href="portfolio-single.html">Design</a></span>
+                                <span> , </span>
+                                <span><a href="portfolio-single.html">Development</a></span>
+                            </div>
+                        </div>
+                        <!-- /. PORTFOLIO ITEM -->
+                    </div>
+
+                    <!-- button -->
+                    <div class="loadmore text-center">
+                        <a href="#">LOAD MORE</a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <!-- /.CONTAINER -->
+    </section>
+    <!-- PORTFOLIO SECTION -->
+
+    <!-- about section -->
+    <section id="about-us" class="about-us pad-tb-40">
+        <!-- custom -->
+        <div class="container custom-about">
+            <!-- row -->
+            <div class="row">
+                <!-- col 6 -->
+                <div class="col-md-6 abt-left animated fadeInLeft visible">
+                    <div class="about-img">
+                        <img src="img/about-us.png" class="img-responsive" alt="" title="" width="290" height="329">
+                    </div>
+                </div>
+                <!-- col-6 -->
+                <div class="col-md-6 abt-right animated">
+                    <div class="about-content">
+                        <div class="title-heading pad-tb-30">
+                            <h3 class="upper">I am a Passionate Designer</h3>
+                            <h5>WE TRY TO PROVIDE BEST SERVICE</h5>
+                        </div>
+                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
+                    </div>
+                    <div class="readmore pad-top-40">
+                        <a class="btn-hover" href="blog-single.html">READ MORE</a>
+                    </div>
+                </div>
+
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- end about section -->
+    <!-- team -->
+    <!-- FEATURED SECTION -->
+    <section class="team animated fadeInUp visible">
+        <!-- CONTAINER -->
+        <div class="container">
+            <div class="text-center pad-bottom-40">
+                <h3>OUR TEAM</h3>
+                <h5>OUR AWESOME TEAM MEMBERS</h5>
+            </div>
+            <div class="row">
+                <div class="col-md-12 team-members">
+                    <!-- CAROUSEL -->
+                    <div class="owl-carousel" data-items="1" data-margin="40" data-loop="true" data-merge="true" data-nav="false" data-dots="false" data-stagepadding="" data-mobile="1" data-tablet="2" data-desktopsmall="3" data-desktop="3" data-autoplay="true" data-delay="4000">
+
+                        <!-- ITEM -->
+                        <div class="item custom-item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/1.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div class="item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/2.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div class="item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/3.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                        <!-- ITEM -->
+                        <div class="item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/4.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+                        <!-- ITEM -->
+                        <div class="item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/5.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+                        <!-- ITEM -->
+                        <div class="item">
+                            <!-- img wrapper -->
+                            <div class="image-wrapper overlay-darker overlay-slidein-left typo-light">
+                                <!-- IMAGE -->
+                                <img class="wrapper-scale-in img-responsive" src="img/team/6.jpg" alt="" width="380" height="450">
+                                <!-- OVERLAY -->
+                                <div class="overlay-dark">
+                                    <!-- DESCRIPTION -->
+                                    <div class="img-desc slide-icons animated transform-custom-ms fadeInUp visible text-center">
+                                        <!-- social icons-->
+                                        <span><a href="#"><i class="fa fa-facebook"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-twitter"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-dribbble"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-instagram"></i></a></span>
+                                        <span><a href="#"><i class="fa fa-google-plus"></i></a></span>
+                                    </div>
+                                    <!-- /.DESCRIPTION -->
+                                </div>
+                            </div>
+                            <!-- end img wrapper -->
+                            <!-- description -->
+                            <div class="team-member text-center">
+                                <h4>Michel Austin</h4>
+                                <h5>Managing Director</h5>
+                            </div>
+                        </div>
+                        <!-- end item -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FEATURED SECTION -->
+    <!-- end team -->
+
+    <!-- testimonial -->
+    <section id="testimonial" class="testimonial pad-tb-70">
+        <div class="container custom-testimonial text-center animated fadeInUp visible">
+            <!-- CAROUSEL -->
+            <div class="col-md-offset-3 col-md-6 col-md-offset-3">
+                <div class="owl-carousel nav-bottom top-bullet dots-dark dots-outer dots-mini" data-items="1" data-margin="40" data-loop="true" data-merge="true" data-nav="false" data-dots="true" data-stagepadding="" data-mobile="1" data-tablet="1" data-desktopsmall="1" data-desktop="1" data-autoplay="true" data-delay="60000">
+                    <!-- TESTIMONIAL -->
+                    <div class="item client-says">
+                        <div class="quote">
+                            <!-- IMG -->
+                            <div class="testimonial-img pad-bottom-20">
+                                <img src="img/testimonial/1.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div class="quote-text">
+                                <!-- TEXT -->
+                                <p>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- TESTIMONIAL -->
+                    <div class="item client-says">
+                        <div class="quote">
+                            <!-- IMG -->
+                            <div class="testimonial-img pad-bottom-20">
+                                <img src="img/testimonial/2.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div class="quote-text">
+                                <!-- TEXT -->
+                                <p>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- TESTIMONIAL -->
+                    <div class="item client-says">
+                        <div class="quote">
+                            <!-- IMG -->
+                            <div class="testimonial-img pad-bottom-20">
+                                <img src="img/testimonial/3.jpg" class="img-responsive img-circle" width="85" height="85" alt="">
+                            </div>
+                            <!-- IMG -->
+                            <div class="quote-text">
+                                <!-- TEXT -->
+                                <p>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur magna nunc, rhoncus sit amet nisl id, consequat accumsan nisl. Cras tristique est id velit vehicula, nec lobortis felis interdum. "</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /. CAROUSEL -->
+            </div>
+        </div>
+    </section>
+    <!-- end testimonial -->
+    <!-- Contact us -->
+    <section id="contact" class="contact pad-tb-70">
+        <!-- who-we-are -->
+        <div class="container">
+            <!-- content row -->
+            <div class="row text-center">
+                <!-- col-md-4 -->
+                <div class="col-md-4 animated fadeInLeft visible">
+                    <h4>E-MAIL</h4>
+                    <div class="contact-details pad-tb-20">
+                        <p>Best support via email</p>
+                        <p>info@yoursite.com</p>
+                    </div>
+                </div>
+                <!-- end col-md-4 -->
+                <!-- col-md-4 -->
+                <div class="col-md-4 animated fadeInDown visible">
+                    <h4>PHONE</h4>
+                    <div class="contact-details pad-tb-20">
+                        <p>Any time. We are open 24/7</p>
+                        <p>+1 23456-67890</p>
+                    </div>
+                </div>
+                <!-- end col-md-4 -->
+                <!-- col-md-4 -->
+                <div class="col-md-4 animated fadeInRight visible">
+                    <h4>ADDRESS</h4>
+                    <div class="contact-details pad-tb-20">
+                        <p>Upper Level, Overseas Passanger</p>
+                        <p>Terminal, The Rocks, Sydney 2000</p>
+                    </div>
+                </div>
+                <!-- end col-md-4 -->
+            
+            </div>
+
+        </div>
+        <!-- end container -->
+    </section>
+    <!-- contact section -->
+
+    <!-- Back to Top -->
+    <a href="#" id="back-to-top" title="Back to top" class="show"></a>
+
+    <!-- Start Footer -->
+    <footer class="custom-footer">
+        <div class="container">
+            <div class="copyright">
+                <p>Copyright &copy; 2017 PRESLEY. All Rights Reserved. Designed by <a href="http://pressionate.com" target="_blank">Pressionate</a>.</p>
+            </div>
+            <ul class="list-inline f-social pad-top-20">
+                <li>
+                    <a href="#"><i class="fa fa-facebook"></i>Facebook</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-twitter"></i>Twitter</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-dribbble"></i>Dribbble</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-instagram"></i>Instagram</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-google-plus"></i>Google+</a>
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-linkedin"></i>Linkedin</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Scripts -->
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/portfolio.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,56 @@
+<div class="form-horizontal">
+  <div class="m-bottom-sm" ng-class="{error: triggerErr || form.trigger.$error.pattern}">
+    <label class="label-inline">Trigger</label>
+    <div>
+      <input type="text" name="trigger" ng-model="editingObj.trigger" placeholder="Trigger Key" required ng-pattern="triggerPattern">
+      <div class="help-block error" ng-show="triggerErr">Trigger is conflicted in current scope, please choose another one.</div>
+      <div class="help-block error" ng-show="form.trigger.$error.pattern">White spaces and punctuations(eg: ,./) are NOT permitted.</div>
+    </div>
+  </div>
+  <div class="m-bottom-sm">
+    <label class="label-inline">Description<span style="font-size: 10px;">(Optional)</span></label>
+    <div>
+      <input type="text" ng-model="editingObj.description" placeholder="Description">
+    </div>
+  </div>
+  <div class="m-bottom-sm">
+    <label class="label-inline">Scope</label>
+    <div>
+      <select ng-options="lang.id as lang.name for lang in languages | orderBy: 'name'" ng-model="editingObj.scope" required ng-change="scopeChanged()"></select>
+      <div class="btn btn-mini last-scope-btn" ng-if="lastScope && !originalObj" ng-click="useLastScope()">
+        Use last scope: {{getLanguageName(lastScope)}}
+      </div>
+    </div>
+  </div>
+  <div>
+    <label>Text <i class="icon-question-sign" my-tooltip template="#text_instructions"></i></label>
+    <div>
+      <div ui-ace="{mode: mode, showPrintMargin: false}" ng-model="editingObj.text"></div>
+    </div>
+
+    <!-- Instructions -->
+    <div id="text_instructions">
+      <div class="alert alert-info">
+        <div><b>Supported placeholders</b></div>
+        <ol>
+          <li>
+            <p><b>Variable</b></p>
+            <p>Format: <span class="label label-info">${NUMBER:STRING}</span></p>
+            <p>Example: ${1:obj} ${2:foo} ${3:BAR}</p>
+          </li>
+          <li>
+            <p><b>Cursor</b></p>
+            <p>Format: <span class="label label-info">${NUMBER}</span></p>
+            <p>Example: ${1} ${2}</p>
+          </li>
+        </ol>
+
+        <p><b>Demo</b></p>
+        <p style="margin-bottom: 9px;">&lt;a href=&quot;${1}&quot; title=&quot;${2:title}&quot;&gt;${2}&lt;/a&gt;${3}</p>
+
+        <p><b>Caveat</b></p>
+        <p><span class="label label-info">NUMBER</span> means order, which should start with 1.</p>
+      </div>
+    </div>
+  </div>
+</div>

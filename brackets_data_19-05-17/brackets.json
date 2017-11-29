@@ -263,5 +263,6 @@
             "description": "p0+m0"
         }
     ],
-    "fileFilters": []
+    "fileFilters": [],
+    "bb.beautify.onSave": false
 }
